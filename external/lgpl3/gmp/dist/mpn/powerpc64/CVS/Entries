@@ -1,0 +1,18 @@
+/README/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/aix.m4/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/com.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/copyd.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/copyi.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/darwin.m4/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/elf.m4/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/logops_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/lshift.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/lshiftc.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/rshift.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/tabselect.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/umul.asm/1.1.1.1/Mon Jun 20 05:54:40 2011//Tnetbsd-8
+D/mode32////
+D/mode64////
+D/p6////
+D/p7////
+D/vmx////

@@ -1,0 +1,16 @@
+A D/clang-rename////
+A D/ld.mcld////
+A D/llvm-ld////
+A D/llvm-prof////
+A D/llvm-ranlib////
+A D/llvm-stub////
+A D/llvmc////
+A D/macho-dumpx////
+R D/macho-dumpx////
+R D/llvmc////
+R D/llvm-stub////
+R D/llvm-ranlib////
+R D/llvm-prof////
+R D/llvm-ld////
+R D/ld.mcld////
+R D/clang-rename////

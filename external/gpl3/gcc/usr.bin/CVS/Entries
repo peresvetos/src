@@ -1,0 +1,35 @@
+/Makefile/1.8/Tue Mar 15 19:14:47 2016//Tnetbsd-8
+/Makefile.backtrace/1.1/Sat Mar  1 10:00:49 2014//Tnetbsd-8
+/Makefile.checksum/1.1/Sat Mar  1 10:00:49 2014//Tnetbsd-8
+/Makefile.common/1.1/Sat Mar  1 10:00:49 2014//Tnetbsd-8
+/Makefile.common-target/1.1/Sat Mar  1 10:00:49 2014//Tnetbsd-8
+/Makefile.frontend/1.4/Fri Apr  4 01:19:14 2014//Tnetbsd-8
+/Makefile.gcc-tool/1.2/Sat May 31 22:55:16 2014//Tnetbsd-8
+/Makefile.libcpp/1.2/Sat Mar  1 10:00:49 2014//Tnetbsd-8
+/Makefile.libdecnumber/1.2/Sat Mar  1 10:00:49 2014//Tnetbsd-8
+/Makefile.libiberty/1.1/Sat Mar  1 10:00:49 2014//Tnetbsd-8
+/Makefile.options/1.1/Sat Mar  1 10:00:49 2014//Tnetbsd-8
+/Makefile.target-defines/1.1/Tue Mar 15 19:12:06 2016//Tnetbsd-8
+D/backend////
+D/cc1////
+D/cc1obj////
+D/cc1plus////
+D/common////
+D/common-target////
+D/cpp////
+D/frontend////
+D/g++////
+D/gcc////
+D/gcc-ar////
+D/gcc-nm////
+D/gcc-ranlib////
+D/gcov////
+D/host-libcpp////
+D/host-libiberty////
+D/include////
+D/libcpp////
+D/libdecnumber////
+D/lto-wrapper////
+D/lto1////
+/Makefile.backend/1.5.18.1/Sat Nov 25 03:23:48 2017//Tnetbsd-8
+/Makefile.inc/1.27.8.1/Sat Nov 25 03:23:48 2017//Tnetbsd-8

@@ -1,0 +1,16 @@
+/ddns-confgen.c/1.8/Wed Dec 10 04:37:51 2014//Tnetbsd-8
+/keygen.h/1.4/Wed Dec 10 04:37:51 2014//Tnetbsd-8
+/util.c/1.5/Thu Dec 17 04:00:40 2015//Tnetbsd-8
+/util.h/1.4/Wed Dec 10 04:37:51 2014//Tnetbsd-8
+D/include////
+D/unix////
+D/win32////
+/Makefile.in/1.1.1.8.8.1/Sat Jun 24 03:26:54 2017//Tnetbsd-8
+/ddns-confgen.8/1.6.8.1/Sat Jun 24 03:26:54 2017//Tnetbsd-8
+/ddns-confgen.docbook/1.1.1.6.8.1/Sat Jun 24 03:26:54 2017//Tnetbsd-8
+/ddns-confgen.html/1.1.1.6.8.1/Sat Jun 24 03:26:54 2017//Tnetbsd-8
+/keygen.c/1.7.8.1/Sat Jun 24 03:26:54 2017//Tnetbsd-8
+/rndc-confgen.8/1.7.8.1/Sat Jun 24 03:26:54 2017//Tnetbsd-8
+/rndc-confgen.c/1.8.8.1/Sat Jun 24 03:26:54 2017//Tnetbsd-8
+/rndc-confgen.docbook/1.1.1.6.8.1/Sat Jun 24 03:26:54 2017//Tnetbsd-8
+/rndc-confgen.html/1.1.1.7.8.1/Sat Jun 24 03:26:54 2017//Tnetbsd-8

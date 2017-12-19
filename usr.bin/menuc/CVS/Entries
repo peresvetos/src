@@ -1,0 +1,13 @@
+/Makefile/1.14/Thu Oct 29 14:36:14 2009//Tnetbsd-8
+/avl.c/1.7/Fri Feb 11 06:21:22 2005//Tnetbsd-8
+/defs.h/1.10/Fri Oct 18 20:19:36 2013//Tnetbsd-8
+/main.c/1.11/Tue Mar  6 16:55:18 2012//Tnetbsd-8
+/mdb.c/1.46/Tue Mar  6 16:55:18 2012//Tnetbsd-8
+/mdb.h/1.9/Tue Mar  6 16:55:18 2012//Tnetbsd-8
+/menu_sys.def/1.59/Tue Mar  6 16:55:18 2012//Tnetbsd-8
+/menuc.1/1.30/Tue Mar  6 16:55:18 2012//Tnetbsd-8
+/parse.y/1.16/Tue Mar  6 16:55:18 2012//Tnetbsd-8
+/pathnames.h/1.1/Mon Oct 15 22:20:03 2001//Tnetbsd-8
+/scan.l/1.16/Tue Mar  6 16:55:18 2012//Tnetbsd-8
+/util.c/1.5/Tue Mar  6 16:55:18 2012//Tnetbsd-8
+D/testm////

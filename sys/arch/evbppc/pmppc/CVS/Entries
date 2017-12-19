@@ -1,0 +1,7 @@
+/autoconf.c/1.7/Sun Jul 29 18:05:42 2012//Tnetbsd-8
+/machdep.c/1.13/Thu Dec 22 14:47:57 2016//Tnetbsd-8
+/mainbus.c/1.6/Fri Jul  1 19:03:08 2011//Tnetbsd-8
+/pic_cpc700.c/1.6/Fri Jul  1 19:03:09 2011//Tnetbsd-8
+/pmppc_locore.S/1.11/Mon Jun 20 19:56:11 2011//Tnetbsd-8
+D/dev////
+D/pci////

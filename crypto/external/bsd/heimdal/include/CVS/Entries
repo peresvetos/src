@@ -1,0 +1,22 @@
+/der-private.h/1.2/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/der-protos.h/1.2/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/gsskrb5-private.h/1.3/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/hdb-private.h/1.2/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/hdb-protos.h/1.2/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/heimntlm-protos.h/1.2/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/hx509-private.h/1.3/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/hx509-protos.h/1.2/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/kadm5-private.h/1.2/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/kadm5-protos.h/1.2/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/kcm-protos.h/1.2/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/kdc-private.h/1.3/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/kdc-protos.h/1.2/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/krb5-private.h/1.3/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/krb5-protos.h/1.4/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/krb5-types.h/1.7/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/ntlm-private.h/1.3/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/spnego-private.h/1.2/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/version.h/1.3/Sat Jan 28 21:31:51 2017//Tnetbsd-8
+/config.h/1.8.4.1/Wed Sep 13 03:07:33 2017//Tnetbsd-8
+/roken.h/1.7.4.1/Wed Sep 13 03:07:33 2017//Tnetbsd-8
+D

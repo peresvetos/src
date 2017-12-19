@@ -1,0 +1,21 @@
+/alloc.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/char_assignment.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/copy.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/copy_alloc.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/copy_assignment.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/default_noexcept.pass.cpp/1.1.1.2/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/dtor_noexcept.pass.cpp/1.1.1.2/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/initializer_list.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/initializer_list_assignment.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/iter_alloc.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/move.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/move_alloc.pass.cpp/1.1.1.4/Sat Aug  9 19:03:46 2014//Tnetbsd-8
+/move_assign_noexcept.pass.cpp/1.1.1.2/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/move_assignment.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/move_noexcept.pass.cpp/1.1.1.2/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/pointer_alloc.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/pointer_assignment.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/pointer_size_alloc.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/size_char_alloc.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+/substr.pass.cpp/1.1.1.3/Sat Jan  4 21:32:09 2014//Tnetbsd-8
+D

@@ -1,0 +1,16 @@
+/compress.test/1.1.1.1/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+/compressfail.test/1.1.1.1/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+/duplicate.test/1.1.1.1/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+/empty.test/1.1.1.1/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+/gcc_type.test/1.1.1.1/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+/invalid_cu_index.test/1.1.1.1/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+/invalid_string_form.test/1.1.1.1/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+/lit.local.cfg/1.1.1.1/Sat Feb 27 22:52:53 2016//Tnetbsd-8
+/merge.test/1.1.1.1/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+/missing_tu_index.test/1.1.1.1/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+/multiple_type_sections.test/1.1.1.1/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+/nocompress.test/1.1.1.1/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+/non_cu_top_level.test/1.1.1.1/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+/simple.test/1.1.1.2/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+/type_dedup.test/1.1.1.2/Tue Jan 10 20:37:06 2017//Tnetbsd-8
+D

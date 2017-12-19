@@ -1,0 +1,33 @@
+/Atffile/1.1.1.1/Wed Dec 10 02:25:33 2014//Tnetbsd-8
+/assert_p.h/1.5/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/compat.c/1.1.1.4/Wed Jul  8 15:38:06 2015//Tnetbsd-8
+/context.c/1.7/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/context_p.h/1.4/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/gai_strerror.c/1.4/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/getaddrinfo.c/1.7/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/gethost.c/1.7/Wed Jul  8 17:29:00 2015//Tnetbsd-8
+/getipnode.c/1.6/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/getnameinfo.c/1.7/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/getrrset.c/1.6/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/herror.c/1.7/Thu Dec 17 04:00:46 2015//Tnetbsd-8
+/lwbuffer.c/1.5/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/lwconfig.c/1.6/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/lwinetaton.c/1.7/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/lwinetntop.c/1.4/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/lwinetpton.c/1.6/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/lwpacket.c/1.4/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/lwres_gabn.c/1.5/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/lwres_gnba.c/1.5/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/lwres_noop.c/1.5/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/lwresutil.c/1.5/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/print.c/1.7/Thu Dec 17 04:00:46 2015//Tnetbsd-8
+/print_p.h/1.4/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+/version.c/1.4/Wed Dec 10 04:38:02 2014//Tnetbsd-8
+D/include////
+D/man////
+D/tests////
+D/unix////
+D/win32////
+/Makefile.in/1.1.1.6.8.1/Sat Jun 24 03:26:57 2017//Tnetbsd-8
+/api/1.1.1.14.8.1/Sat Jun 24 03:26:57 2017//Tnetbsd-8
+/lwres_grbn.c/1.5.8.1/Sat Jun 24 03:26:57 2017//Tnetbsd-8

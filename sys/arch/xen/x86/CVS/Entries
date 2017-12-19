@@ -1,0 +1,14 @@
+/autoconf.c/1.18/Tue May 23 08:48:35 2017//Tnetbsd-8
+/consinit.c/1.16/Sat Oct 13 17:58:55 2012//Tnetbsd-8
+/cpu.c/1.110/Thu Mar 23 18:08:06 2017//Tnetbsd-8
+/hypervisor_machdep.c/1.28/Sun Sep 21 12:46:15 2014//Tnetbsd-8
+/intr.c/1.31/Tue May 23 08:54:39 2017//Tnetbsd-8
+/mainbus.c/1.19/Tue May 23 08:54:39 2017//Tnetbsd-8
+/x86_xpmap.c/1.73/Sat Mar 18 13:35:57 2017//Tnetbsd-8
+/xen_bus_dma.c/1.26/Sat Jun 30 23:36:20 2012//Tnetbsd-8
+/xen_intr.c/1.9/Fri Jan 16 20:16:47 2009//Tnetbsd-8
+/xen_ipi.c/1.20/Thu Jul  7 06:55:40 2016//Tnetbsd-8
+/xen_pmap.c/1.26/Thu Mar 23 18:08:06 2017//Tnetbsd-8
+/xen_shm_machdep.c/1.10/Fri Sep  2 22:25:08 2011//Tnetbsd-8
+/xenfunc.c/1.16/Sun Feb  5 10:42:21 2017//Tnetbsd-8
+D

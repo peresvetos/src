@@ -1,0 +1,17 @@
+/Makefile/1.13/Tue Mar  7 16:26:37 2017//Tnetbsd-8
+/Makefile.hacks/1.5/Thu Mar 17 08:02:38 2016//Tnetbsd-8
+/Makefile.inc/1.4/Wed Apr 20 17:18:52 2016//Tnetbsd-8
+/Makefile.sanitizer/1.2/Thu Jun  9 07:11:08 2016//Tnetbsd-8
+/Makefile.tconfigh/1.1/Wed Jun 29 01:56:58 2011//Tnetbsd-8
+D/crtstuff////
+D/libasan////
+D/libbacktrace////
+D/libgcc////
+D/libgomp////
+D/libiberty////
+D/liblto_plugin////
+D/libobjc////
+D/libstdc++-v3////
+D/libsupc++////
+D/libtsan////
+D/libubsan////

@@ -1,0 +1,27 @@
+/Makefile/1.29/Sun May 21 15:28:42 2017//Tnetbsd-8
+/Makefile.inc/1.1/Wed Nov  3 16:10:21 2010//Tnetbsd-8
+D/csu////
+D/libbluetooth////
+D/libbpfjit////
+D/libc////
+D/libcrypt////
+D/libcurses////
+D/libdes////
+D/libevent////
+D/libexecinfo////
+D/libm////
+D/libobjc////
+D/libposix////
+D/libppath////
+D/libprop////
+D/libpthread////
+D/librefuse////
+D/librt////
+D/librumpclient////
+D/librumphijack////
+D/libskey////
+D/libsljit////
+D/libtre////
+D/libusbhid////
+D/libutil////
+D/semaphore////

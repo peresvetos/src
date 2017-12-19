@@ -1,0 +1,6 @@
+/lit.local.cfg/1.1.1.2/Sun Aug 10 17:04:36 2014//Tnetbsd-8
+/speculate-cttz-ctlz.ll/1.1.1.1/Sat Feb 27 22:52:39 2016//Tnetbsd-8
+/switch-covered-bug.ll/1.1.1.2/Sat Feb 27 22:52:39 2016//Tnetbsd-8
+/switch-table-bug.ll/1.1.1.2/Sat Feb 27 22:52:39 2016//Tnetbsd-8
+/switch_to_lookup_table.ll/1.1.1.7/Tue Jan 10 20:46:39 2017//Tnetbsd-8
+D

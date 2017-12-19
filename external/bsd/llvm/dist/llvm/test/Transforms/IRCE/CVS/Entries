@@ -1,0 +1,16 @@
+/add-metadata-pre-post-loops.ll/1.1.1.1/Tue Jan 10 20:47:25 2017//Tnetbsd-8
+/bug-loop-varying-upper-limit.ll/1.1.1.2/Tue Jan 10 20:47:24 2017//Tnetbsd-8
+/bug-mismatched-types.ll/1.1.1.2/Tue Jan 10 20:47:24 2017//Tnetbsd-8
+/conjunctive-checks.ll/1.1.1.1/Tue Jan 10 20:47:24 2017//Tnetbsd-8
+/decrementing-loop.ll/1.1.1.2/Tue Jan 10 20:47:25 2017//Tnetbsd-8
+/low-becount.ll/1.1.1.2/Tue Jan 10 20:47:24 2017//Tnetbsd-8
+/multiple-access-no-preloop.ll/1.1.1.2/Tue Jan 10 20:47:24 2017//Tnetbsd-8
+/not-likely-taken.ll/1.1.1.1/Sat Feb 27 22:52:42 2016//Tnetbsd-8
+/only-lower-check.ll/1.1.1.2/Tue Jan 10 20:47:25 2017//Tnetbsd-8
+/only-upper-check.ll/1.1.1.2/Tue Jan 10 20:47:25 2017//Tnetbsd-8
+/single-access-no-preloop.ll/1.1.1.2/Tue Jan 10 20:47:25 2017//Tnetbsd-8
+/single-access-with-preloop.ll/1.1.1.2/Tue Jan 10 20:47:24 2017//Tnetbsd-8
+/skip-profitability-checks.ll/1.1.1.1/Tue Jan 10 20:47:24 2017//Tnetbsd-8
+/unhandled.ll/1.1.1.2/Tue Jan 10 20:47:25 2017//Tnetbsd-8
+/with-parent-loops.ll/1.1.1.1/Sat Feb 27 22:52:42 2016//Tnetbsd-8
+D

@@ -1,0 +1,16 @@
+/dsargs.c/1.1.1.7/Wed Jan 25 13:03:53 2017//Tnetbsd-8
+/dscontrol.c/1.8/Sun Apr 30 23:13:37 2017//Tnetbsd-8
+/dsdebug.c/1.1.1.3/Wed Jan 25 13:03:53 2017//Tnetbsd-8
+/dsfield.c/1.1.1.8/Wed Jan 25 13:03:53 2017//Tnetbsd-8
+/dsinit.c/1.1.1.8/Wed Jan 25 13:03:53 2017//Tnetbsd-8
+/dsmethod.c/1.1.1.10/Wed Jan 25 13:03:53 2017//Tnetbsd-8
+/dsmthdat.c/1.1.1.8/Sun Apr 30 20:57:24 2017//Tnetbsd-8
+/dsobject.c/1.1.1.10/Sun Apr 30 20:57:24 2017//Tnetbsd-8
+/dsopcode.c/1.9/Sun Apr 30 23:13:37 2017//Tnetbsd-8
+/dsutils.c/1.8/Sun Apr 30 23:13:37 2017//Tnetbsd-8
+/dswexec.c/1.1.1.9/Sun Apr 30 20:57:24 2017//Tnetbsd-8
+/dswload.c/1.1.1.9/Wed Jan 25 13:03:53 2017//Tnetbsd-8
+/dswload2.c/1.1.1.10/Sun Apr 30 20:57:24 2017//Tnetbsd-8
+/dswscope.c/1.1.1.7/Wed Jan 25 13:03:53 2017//Tnetbsd-8
+/dswstate.c/1.1.1.7/Wed Jan 25 13:03:53 2017//Tnetbsd-8
+D

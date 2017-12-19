@@ -1,0 +1,7 @@
+/bundled-instructions.mir/1.1.1.2/Tue Jan 10 20:42:20 2017//Tnetbsd-8
+/cfi-same-value.mir/1.1.1.2/Tue Jan 10 20:42:20 2017//Tnetbsd-8
+/expected-closing-brace.mir/1.1.1.2/Tue Jan 10 20:42:20 2017//Tnetbsd-8
+/extraneous-closing-brace-error.mir/1.1.1.2/Tue Jan 10 20:42:20 2017//Tnetbsd-8
+/lit.local.cfg/1.1.1.1/Sat Feb 27 22:53:09 2016//Tnetbsd-8
+/nested-instruction-bundle-error.mir/1.1.1.2/Tue Jan 10 20:42:20 2017//Tnetbsd-8
+D

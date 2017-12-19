@@ -1,0 +1,18 @@
+/filesystem/1.1.1.1/Sun Jan 24 06:05:52 2016//Tnetbsd-8
+/algorithm/1.1.1.1.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/any/1.1.1.1.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/chrono/1.1.1.1.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/fs_dir.h/1.1.1.2.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/fs_fwd.h/1.1.1.2.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/fs_ops.h/1.1.1.2.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/fs_path.h/1.1.1.2.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/functional/1.1.1.1.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/lfts_config.h/1.1.1.1.2.2/Thu Nov 23 11:02:02 2017//Tnetbsd-8
+/optional/1.1.1.2.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/ratio/1.1.1.1.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/string_view/1.1.1.2.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/string_view.tcc/1.1.1.2.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/system_error/1.1.1.1.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/tuple/1.1.1.2.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+/type_traits/1.1.1.1.8.1/Sat Nov 25 03:23:45 2017//Tnetbsd-8
+D

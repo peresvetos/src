@@ -1,0 +1,17 @@
+/Locore.c/1.29/Fri Apr 22 18:25:41 2016//Tnetbsd-8
+/Makefile/1.58/Thu Apr 20 19:09:29 2017//Tnetbsd-8
+/Xcoffxtra.c/1.3/Sat Dec 24 22:50:07 2005//Tnetbsd-8
+/alloc.c/1.10/Mon Apr 28 20:23:27 2008//Tnetbsd-8
+/boot.c/1.28/Sat Jun 11 06:32:45 2016//Tnetbsd-8
+/boot.h/1.5/Fri Jan  9 22:02:18 2015//Tnetbsd-8
+/hfs.c/1.5/Sun Dec 11 12:18:06 2005//Tnetbsd-8
+/hfs.h/1.3/Sun Dec 11 12:18:06 2005//Tnetbsd-8
+/net.c/1.8/Fri Jan 27 03:58:27 2006//Tnetbsd-8
+/net.h/1.1/Fri Dec 26 13:43:29 2003//Tnetbsd-8
+/netif_of.c/1.14/Wed Jan 28 13:10:05 2009//Tnetbsd-8
+/netif_of.h/1.2/Thu Mar 13 12:15:31 2003//Tnetbsd-8
+/ofdev.c/1.26/Sun Feb 19 12:02:55 2012//Tnetbsd-8
+/ofdev.h/1.6/Wed Jan 28 15:03:28 2009//Tnetbsd-8
+/openfirm.h/1.7/Mon Dec 24 15:46:45 2007//Tnetbsd-8
+/version/1.13/Sun Oct 17 15:33:04 2010//Tnetbsd-8
+D

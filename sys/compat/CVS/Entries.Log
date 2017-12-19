@@ -1,0 +1,16 @@
+A D/aout////
+A D/darwin////
+A D/hpux////
+A D/irix////
+A D/mach////
+A D/pecoff////
+A D/sa////
+A D/sparc32////
+R D/sparc32////
+R D/sa////
+R D/pecoff////
+R D/mach////
+R D/irix////
+R D/hpux////
+R D/darwin////
+R D/aout////

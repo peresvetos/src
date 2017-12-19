@@ -1,0 +1,12 @@
+/adiw-fail.s/1.1.1.1/Tue Jan 10 20:44:38 2017//Tnetbsd-8
+/adiw-pass.s/1.1.1.1/Tue Jan 10 20:44:38 2017//Tnetbsd-8
+/brbs-pass.s/1.1.1.1/Tue Jan 10 20:44:38 2017//Tnetbsd-8
+/call-pass.s/1.1.1.1/Tue Jan 10 20:44:38 2017//Tnetbsd-8
+/in-fail.s/1.1.1.1/Tue Jan 10 20:44:38 2017//Tnetbsd-8
+/in-pass.s/1.1.1.1/Tue Jan 10 20:44:38 2017//Tnetbsd-8
+/lds-fail.s/1.1.1.1/Tue Jan 10 20:44:38 2017//Tnetbsd-8
+/lds-pass.s/1.1.1.1/Tue Jan 10 20:44:38 2017//Tnetbsd-8
+/rjmp-pass.s/1.1.1.1/Tue Jan 10 20:44:38 2017//Tnetbsd-8
+/sbi-fail.s/1.1.1.1/Tue Jan 10 20:44:38 2017//Tnetbsd-8
+/sbi-pass.s/1.1.1.1/Tue Jan 10 20:44:38 2017//Tnetbsd-8
+D

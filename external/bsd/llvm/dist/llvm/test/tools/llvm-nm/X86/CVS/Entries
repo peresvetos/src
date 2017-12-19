@@ -1,0 +1,10 @@
+/IRobj.test/1.1.1.1/Sat Feb 27 22:52:55 2016//Tnetbsd-8
+/externalonly.test/1.1.1.1/Sat Feb 27 22:52:55 2016//Tnetbsd-8
+/groupingflags.test/1.1.1.1/Sat Feb 27 22:52:55 2016//Tnetbsd-8
+/init-fini.test/1.1.1.1/Tue Jan 10 20:38:12 2017//Tnetbsd-8
+/posixArchiveMachO.test/1.1.1.1/Tue Jan 10 20:38:12 2017//Tnetbsd-8
+/posixELF.test/1.1.1.1/Tue Jan 10 20:38:12 2017//Tnetbsd-8
+/posixMachO.test/1.1.1.2/Tue Jan 10 20:38:12 2017//Tnetbsd-8
+/radix.s/1.1.1.1/Tue Jan 10 20:38:12 2017//Tnetbsd-8
+/weak.test/1.1.1.1/Tue Jan 10 20:38:12 2017//Tnetbsd-8
+D/Inputs////

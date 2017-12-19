@@ -1,0 +1,13 @@
+/Makefile/1.27/Tue May  9 23:26:49 2017//Tnetbsd-8
+/activate.c/1.15/Sat Apr 11 07:36:43 2009//Tnetbsd-8
+/conf.c/1.12/Mon Jul  2 16:33:05 2007//Tnetbsd-8
+/mount_portal.8/1.21/Sat Dec  5 20:34:28 2009//Tnetbsd-8
+/pathnames.h/1.6/Thu Aug  7 10:04:30 2003//Tnetbsd-8
+/portal.conf/1.4/Tue May  9 21:42:35 2017//Tnetbsd-8
+/portald.h/1.10/Sat Dec  5 20:11:02 2009//Tnetbsd-8
+/pt_conf.c/1.8/Tue May  9 23:26:49 2017//Tnetbsd-8
+/pt_file.c/1.19/Wed May 10 13:58:25 2017//Tnetbsd-8
+/pt_filter.c/1.11/Tue Jan  4 23:36:23 2011//Tnetbsd-8
+/pt_tcp.c/1.21/Sat Apr 11 07:36:43 2009//Tnetbsd-8
+/puffs_portal.c/1.9/Wed May 10 16:35:18 2017//Tnetbsd-8
+D/examples////

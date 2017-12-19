@@ -1,0 +1,16 @@
+/codepage.h/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-8
+/ct.c/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-8
+/xmlfile.h/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-8
+/xmlmime.c/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-8
+/xmlmime.h/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-8
+/xmltchar.h/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-8
+/xmlurl.h/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-8
+/xmlwin32url.cxx/1.1.1.1/Sat Feb 11 18:18:16 2012//Tnetbsd-8
+/codepage.c/1.1.1.2.4.1/Sat Jun 24 03:27:39 2017//Tnetbsd-8
+/filemap.h/1.1.1.1.34.1/Sat Jun 24 03:27:39 2017//Tnetbsd-8
+/readfilemap.c/1.1.1.3.4.1/Sat Jun 24 03:27:39 2017//Tnetbsd-8
+/unixfilemap.c/1.1.1.2.8.1/Sat Jun 24 03:27:39 2017//Tnetbsd-8
+/win32filemap.c/1.1.1.1.34.1/Sat Jun 24 03:27:39 2017//Tnetbsd-8
+/xmlfile.c/1.1.1.2.4.1/Sat Jun 24 03:27:39 2017//Tnetbsd-8
+/xmlwf.c/1.1.1.4.4.1/Sat Jun 24 03:27:39 2017//Tnetbsd-8
+D

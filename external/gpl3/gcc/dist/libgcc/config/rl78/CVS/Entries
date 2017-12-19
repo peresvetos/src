@@ -1,0 +1,19 @@
+/bit-count.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/cmpsi2.S/1.1.1.2/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/divmodhi.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/divmodqi.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/divmodsi.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/fpbit-sf.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/fpmath-sf.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/lib2div.c/1.1.1.2/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/lib2mul.c/1.1.1.2/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/lib2shift.c/1.1.1.2/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/lshrsi3.S/1.1.1.2/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/mulsi3.S/1.1.1.2/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/rl78-divmod.h/1.1.1.2/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/rl78-mul.h/1.1.1.2/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/signbit.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/t-rl78/1.1.1.2/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/trampoline.S/1.1.1.2/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/vregs.h/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+D

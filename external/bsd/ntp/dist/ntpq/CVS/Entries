@@ -1,0 +1,21 @@
+/Makefile.am/1.1.1.5/Thu Apr 13 19:17:32 2017//Tnetbsd-8
+/Makefile.in/1.1.1.10/Thu Apr 13 19:17:32 2017//Tnetbsd-8
+/README/1.1.1.1/Sun Dec 13 16:56:26 2009//Tnetbsd-8
+/invoke-ntpq.menu/1.1.1.1/Fri Dec 27 23:31:05 2013//Tnetbsd-8
+/invoke-ntpq.texi/1.1.1.10/Thu Apr 13 19:17:32 2017//Tnetbsd-8
+/libntpq.c/1.5/Thu Apr 13 20:17:42 2017//Tnetbsd-8
+/libntpq.h/1.5/Fri Jan  8 21:35:40 2016//Tnetbsd-8
+/libntpq_subs.c/1.4/Fri Jan  8 21:35:40 2016//Tnetbsd-8
+/ntpq-opts.c/1.10/Thu Apr 13 20:17:42 2017//Tnetbsd-8
+/ntpq-opts.def/1.1.1.5/Sun May  1 15:35:45 2016//Tnetbsd-8
+/ntpq-opts.h/1.10/Thu Apr 13 20:17:42 2017//Tnetbsd-8
+/ntpq-subs.c/1.15/Thu Apr 13 20:17:42 2017//Tnetbsd-8
+/ntpq.1ntpqman/1.1.1.10/Thu Apr 13 19:17:32 2017//Tnetbsd-8
+/ntpq.1ntpqmdoc/1.1.1.10/Thu Apr 13 19:17:32 2017//Tnetbsd-8
+/ntpq.c/1.18/Thu Apr 13 20:17:42 2017//Tnetbsd-8
+/ntpq.h/1.9/Sun May  1 23:32:01 2016//Tnetbsd-8
+/ntpq.html/1.1.1.10/Thu Apr 13 19:17:32 2017//Tnetbsd-8
+/ntpq.man.in/1.1.1.10/Thu Apr 13 19:17:32 2017//Tnetbsd-8
+/ntpq.mdoc.in/1.1.1.10/Thu Apr 13 19:17:32 2017//Tnetbsd-8
+/ntpq.texi/1.1.1.1/Fri Dec 27 23:31:06 2013//Tnetbsd-8
+D

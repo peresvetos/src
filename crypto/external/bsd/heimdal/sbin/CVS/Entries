@@ -1,0 +1,11 @@
+/Makefile/1.1/Wed Apr 13 19:16:58 2011//Tnetbsd-8
+/Makefile.inc/1.4/Sun Jan 29 22:09:06 2017//Tnetbsd-8
+D/hprop////
+D/iprop-log////
+D/kadmin////
+D/kcm////
+D/kdc////
+D/kdigest////
+D/kimpersonate////
+D/kstash////
+D/ktutil////

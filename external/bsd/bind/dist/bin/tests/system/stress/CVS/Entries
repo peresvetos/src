@@ -1,0 +1,10 @@
+/clean.sh/1.1.1.4/Tue Dec  4 19:22:55 2012//Tnetbsd-8
+/prereq.sh/1.1.1.1/Thu Dec 17 03:21:57 2015//Tnetbsd-8
+/setup.pl/1.1.1.4/Tue Dec  4 19:22:55 2012//Tnetbsd-8
+/setup.sh/1.1.1.4/Tue Dec  4 19:22:55 2012//Tnetbsd-8
+/update.pl/1.1.1.4/Tue Dec  4 19:22:55 2012//Tnetbsd-8
+D/ns1////
+D/ns2////
+D/ns3////
+D/ns4////
+/tests.sh/1.1.1.6.8.1/Sat Jun 24 03:26:55 2017//Tnetbsd-8

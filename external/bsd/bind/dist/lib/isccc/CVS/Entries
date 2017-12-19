@@ -1,0 +1,13 @@
+/alist.c/1.5/Thu Dec 17 04:00:45 2015//Tnetbsd-8
+/base64.c/1.5/Wed Dec 10 04:38:01 2014//Tnetbsd-8
+/ccmsg.c/1.4/Wed Dec 10 04:38:01 2014//Tnetbsd-8
+/lib.c/1.4/Wed Dec 10 04:38:01 2014//Tnetbsd-8
+/result.c/1.4/Wed Dec 10 04:38:01 2014//Tnetbsd-8
+/sexpr.c/1.7/Thu May 26 16:50:00 2016//Tnetbsd-8
+/symtab.c/1.4/Wed Dec 10 04:38:01 2014//Tnetbsd-8
+/version.c/1.4/Wed Dec 10 04:38:01 2014//Tnetbsd-8
+D/include////
+D/win32////
+/Makefile.in/1.1.1.11.8.1/Sat Jun 24 03:26:57 2017//Tnetbsd-8
+/api/1.1.1.11.8.1/Sat Jun 24 03:26:57 2017//Tnetbsd-8
+/cc.c/1.11.8.1/Sat Jun 24 03:26:57 2017//Tnetbsd-8

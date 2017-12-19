@@ -1,0 +1,50 @@
+/Makefile/1.81/Sun Mar  6 10:19:01 2016//Tnetbsd-8
+/README/1.12/Tue Apr  5 00:21:22 2005//Tnetbsd-8
+/cdbr.h/1.2/Wed Dec 11 01:24:08 2013//Tnetbsd-8
+/cdbw.h/1.1/Sun Jun  3 21:02:50 2012//Tnetbsd-8
+/compat_defs.h/1.107/Sat Jan  7 21:29:30 2017//Tnetbsd-8
+/compat_getopt.h/1.2/Thu Nov  8 20:30:59 2007//Tnetbsd-8
+/compat_pwd.h/1.6/Sun Jan 18 01:44:09 2009//Tnetbsd-8
+/configure/1.86/Sat Jan  7 21:31:07 2017//Tnetbsd-8
+/configure.ac/1.87/Sat Jan  7 21:30:42 2017//Tnetbsd-8
+/db.h/1.4/Mon Oct 16 19:44:23 2006//Tnetbsd-8
+/defs.mk.in/1.12/Sun Dec  2 13:05:14 2012//Tnetbsd-8
+/dprintf.c/1.2/Tue Mar  5 16:29:09 2013//Tnetbsd-8
+/fgetln.c/1.12/Fri Oct  9 14:42:40 2015//Tnetbsd-8
+/flock.c/1.6/Mon Apr 28 20:24:12 2008//Tnetbsd-8
+/fpurge.c/1.1/Tue Jun 16 22:35:34 2009//Tnetbsd-8
+/fts.h/1.2/Mon Oct 27 00:12:43 2003//Tnetbsd-8
+/getline.c/1.2/Tue Sep 16 17:23:50 2014//Tnetbsd-8
+/getmode.c/1.8/Tue Nov  4 23:31:32 2008//Tnetbsd-8
+/glob.h/1.2/Mon Oct 27 00:12:43 2003//Tnetbsd-8
+/issetugid.c/1.2/Mon Oct 27 00:12:43 2003//Tnetbsd-8
+/lchflags.c/1.4/Mon Apr 28 20:24:12 2008//Tnetbsd-8
+/lchmod.c/1.4/Mon Apr 28 20:24:12 2008//Tnetbsd-8
+/lchown.c/1.4/Mon Apr 28 20:24:12 2008//Tnetbsd-8
+/md2.h/1.2/Mon Oct 27 00:12:43 2003//Tnetbsd-8
+/md4.h/1.3/Mon Oct 27 00:12:43 2003//Tnetbsd-8
+/md5.h/1.3/Mon Oct 27 00:12:43 2003//Tnetbsd-8
+/mpool.h/1.1/Mon Jan 21 20:04:37 2002//Tnetbsd-8
+/namespace.h/1.3/Mon Oct 27 00:12:43 2003//Tnetbsd-8
+/nbtool_config.h.in/1.40/Sat Jan  7 21:31:07 2017//Tnetbsd-8
+/ndbm.h/1.1/Wed Feb  3 15:34:44 2010//Tnetbsd-8
+/nl_types.h/1.3/Wed Nov 12 15:08:52 2014//Tnetbsd-8
+/pread.c/1.4/Mon Apr 28 20:24:12 2008//Tnetbsd-8
+/putc_unlocked.c/1.4/Mon Apr 28 20:24:12 2008//Tnetbsd-8
+/pwrite.c/1.4/Mon Apr 28 20:24:12 2008//Tnetbsd-8
+/regex.h/1.3/Sun Mar  6 10:22:59 2016//Tnetbsd-8
+/rmd160.h/1.4/Thu Feb  7 20:30:29 2013//Tnetbsd-8
+/setenv.c/1.4/Mon Apr 28 20:24:12 2008//Tnetbsd-8
+/setgroupent.c/1.4/Mon Oct 27 00:12:43 2003//Tnetbsd-8
+/setpassent.c/1.4/Mon Oct 27 00:12:43 2003//Tnetbsd-8
+/setprogname.c/1.5/Mon Apr 28 20:24:12 2008//Tnetbsd-8
+/sha1.h/1.5/Thu Feb  7 20:30:29 2013//Tnetbsd-8
+/sha2.h/1.2/Thu Feb  7 20:31:52 2013//Tnetbsd-8
+/snprintf.c/1.3/Mon Oct 27 00:12:43 2003//Tnetbsd-8
+/tzfile.h/1.1/Thu Jan 31 22:43:49 2002//Tnetbsd-8
+/vis.h/1.2/Mon Oct 27 00:12:43 2003//Tnetbsd-8
+D/crypto////
+D/dev////
+D/fs////
+D/sys////
+D/ufs////

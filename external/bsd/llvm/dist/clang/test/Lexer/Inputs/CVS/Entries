@@ -1,0 +1,12 @@
+/bad-header-guard-defined.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
+/bad-header-guard.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
+/case-insensitive-include.h/1.1.1.1/Wed Jan 11 10:39:40 2017//Tnetbsd-8
+/different-define.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
+/good-header-guard.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
+/multiple.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
+/no-define.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
+/out-of-order-define.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
+/success.h/1.1.1.1/Fri May 30 18:14:48 2014//Tnetbsd-8
+/tokens-between-ifndef-and-define.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
+/unlikely-to-be-header-guard.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
+D

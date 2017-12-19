@@ -1,0 +1,22 @@
+/aio.h/1.2/Sun Jan 11 02:46:25 2009//Tnetbsd-8
+/dirent.h/1.8/Fri Dec 16 04:45:04 2016//Tnetbsd-8
+/fstypes.h/1.4/Mon Apr 28 20:22:59 2008//Tnetbsd-8
+/fts.h/1.1/Tue Sep 13 01:44:09 2005//Tnetbsd-8
+/glob.h/1.1/Tue Sep 13 01:44:09 2005//Tnetbsd-8
+/locale.h/1.1/Mon Jun  7 13:52:30 2010//Tnetbsd-8
+/lwp.h/1.4/Fri Jan 31 20:45:49 2014//Tnetbsd-8
+/mqueue.h/1.2/Sun Jan 11 02:46:25 2009//Tnetbsd-8
+/ndbm.h/1.1/Tue Sep 13 01:44:09 2005//Tnetbsd-8
+/ns.h/1.1/Sat Aug 26 16:07:01 2006//Tnetbsd-8
+/pwd.h/1.2/Sun Jan 11 02:46:25 2009//Tnetbsd-8
+/setjmp.h/1.2/Sat Nov  5 09:27:06 2011//Tnetbsd-8
+/signal.h/1.2/Sun Jan 11 02:46:25 2009//Tnetbsd-8
+/stdio.h/1.1/Sun Jan 22 18:36:14 2012//Tnetbsd-8
+/stdlib.h/1.7/Thu Jun 12 18:50:12 2014//Tnetbsd-8
+/time.h/1.4/Fri Oct 30 03:08:56 2015//Tnetbsd-8
+/unistd.h/1.2/Mon Apr 28 20:22:59 2008//Tnetbsd-8
+/utime.h/1.2/Sun Jan 11 02:46:25 2009//Tnetbsd-8
+/utmp.h/1.2/Sun Jan 11 02:46:25 2009//Tnetbsd-8
+/utmpx.h/1.3/Sun Jan 11 02:46:25 2009//Tnetbsd-8
+/vis.h/1.2/Sat Mar 12 19:52:47 2011//Tnetbsd-8
+D/rpc////

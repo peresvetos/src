@@ -1,0 +1,6 @@
+/bcopy.S/1.1/Fri Aug  5 15:06:02 2016//Tnetbsd-8
+/bzero.S/1.1/Fri Aug  5 15:06:02 2016//Tnetbsd-8
+/ffs.S/1.1/Fri Aug  5 15:06:02 2016//Tnetbsd-8
+/memcpy.S/1.1/Fri Aug  5 15:06:02 2016//Tnetbsd-8
+/memmove.S/1.1/Fri Aug  5 15:06:02 2016//Tnetbsd-8
+D

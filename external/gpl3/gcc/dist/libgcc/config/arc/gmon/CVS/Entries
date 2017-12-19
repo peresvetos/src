@@ -1,0 +1,10 @@
+/atomic.h/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/auxreg.h/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/dcache_linesz.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/gmon.c/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/machine-gmon.h/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/mcount.c/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/prof-freq-stub.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/prof-freq.c/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/profil.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+D/sys////

@@ -1,0 +1,11 @@
+/CMakeLists.txt/1.1.1.2/Tue Jan 10 20:36:28 2017//Tnetbsd-8
+/LLVMBuild.txt/1.1.1.2/Tue Jan 10 20:36:28 2017//Tnetbsd-8
+D/Coroutines////
+D/Hello////
+D/IPO////
+D/InstCombine////
+D/Instrumentation////
+D/ObjCARC////
+D/Scalar////
+D/Utils////
+D/Vectorize////

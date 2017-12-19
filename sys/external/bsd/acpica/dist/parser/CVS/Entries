@@ -1,0 +1,12 @@
+/psargs.c/1.1.1.10/Sun Apr 30 20:57:25 2017//Tnetbsd-8
+/psloop.c/1.1.1.9/Sun Apr 30 20:57:25 2017//Tnetbsd-8
+/psobject.c/1.1.1.7/Sun Apr 30 20:57:25 2017//Tnetbsd-8
+/psopcode.c/1.9/Sun Apr 30 23:13:37 2017//Tnetbsd-8
+/psopinfo.c/1.10/Sun Apr 30 23:13:37 2017//Tnetbsd-8
+/psparse.c/1.1.1.10/Sun Apr 30 20:57:25 2017//Tnetbsd-8
+/psscope.c/1.1.1.7/Wed Jan 25 13:03:54 2017//Tnetbsd-8
+/pstree.c/1.1.1.8/Sun Apr 30 20:57:25 2017//Tnetbsd-8
+/psutils.c/1.1.1.10/Sun Apr 30 20:57:25 2017//Tnetbsd-8
+/pswalk.c/1.1.1.7/Wed Jan 25 13:03:54 2017//Tnetbsd-8
+/psxface.c/1.1.1.9/Wed Jan 25 13:03:54 2017//Tnetbsd-8
+D

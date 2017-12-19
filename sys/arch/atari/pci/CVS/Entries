@@ -1,0 +1,8 @@
+/pci_hades.c/1.14/Fri Oct  2 05:22:50 2015//Tnetbsd-8
+/pci_machdep.c/1.54/Sat Mar 29 19:28:26 2014//Tnetbsd-8
+/pci_milan.c/1.14/Fri Oct  2 05:22:50 2015//Tnetbsd-8
+/pci_tseng.c/1.11/Tue Oct 20 19:10:11 2009//Tnetbsd-8
+/pci_vga.c/1.14/Tue Oct 20 19:10:11 2009//Tnetbsd-8
+/pci_vga.h/1.5/Tue Oct 20 19:10:11 2009//Tnetbsd-8
+/pciide_machdep.c/1.7/Sat Oct 27 17:17:43 2012//Tnetbsd-8
+D

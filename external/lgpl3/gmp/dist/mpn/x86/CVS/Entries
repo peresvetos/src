@@ -1,0 +1,40 @@
+/README/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-8
+/aors_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/aorsmul_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/bdiv_dbm1c.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/bdiv_q_1.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/copyd.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/copyi.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/darwin.m4/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/dive_1.asm/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-8
+/divrem_1.asm/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-8
+/divrem_2.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/gmp-mparam.h/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-8
+/lshift.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/mod_34lsub1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/mul_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/mul_basecase.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/rshift.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/sqr_basecase.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/t-zdisp.sh/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-8
+/t-zdisp2.pl/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-8
+/tabselect.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/udiv.asm/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-8
+/umul.asm/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-8
+/x86-defs.m4/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+D/atom////
+D/bobcat////
+D/core2////
+D/coreinhm////
+D/coreisbr////
+D/fat////
+D/geode////
+D/i486////
+D/k10////
+D/k6////
+D/k7////
+D/k8////
+D/nano////
+D/p6////
+D/pentium////
+D/pentium4////

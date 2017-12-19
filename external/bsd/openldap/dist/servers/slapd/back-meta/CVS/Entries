@@ -1,0 +1,19 @@
+/Makefile.in/1.1.1.5/Thu Feb  9 01:47:05 2017//Tnetbsd-8
+/add.c/1.1.1.5/Thu Feb  9 01:47:05 2017//Tnetbsd-8
+/back-meta.h/1.1.1.6/Thu Feb  9 01:47:05 2017//Tnetbsd-8
+/bind.c/1.1.1.5/Thu Feb  9 01:47:04 2017//Tnetbsd-8
+/candidates.c/1.1.1.5/Thu Feb  9 01:47:03 2017//Tnetbsd-8
+/compare.c/1.1.1.5/Thu Feb  9 01:47:05 2017//Tnetbsd-8
+/config.c/1.1.1.6/Thu Feb  9 01:47:04 2017//Tnetbsd-8
+/conn.c/1.1.1.5/Thu Feb  9 01:47:04 2017//Tnetbsd-8
+/delete.c/1.1.1.5/Thu Feb  9 01:47:04 2017//Tnetbsd-8
+/dncache.c/1.1.1.5/Thu Feb  9 01:47:04 2017//Tnetbsd-8
+/init.c/1.1.1.6/Thu Feb  9 01:47:05 2017//Tnetbsd-8
+/map.c/1.1.1.5/Thu Feb  9 01:47:04 2017//Tnetbsd-8
+/modify.c/1.1.1.5/Thu Feb  9 01:47:04 2017//Tnetbsd-8
+/modrdn.c/1.1.1.5/Thu Feb  9 01:47:05 2017//Tnetbsd-8
+/proto-meta.h/1.1.1.5/Thu Feb  9 01:47:05 2017//Tnetbsd-8
+/search.c/1.1.1.6/Thu Feb  9 01:47:05 2017//Tnetbsd-8
+/suffixmassage.c/1.1.1.5/Thu Feb  9 01:47:03 2017//Tnetbsd-8
+/unbind.c/1.1.1.5/Thu Feb  9 01:47:03 2017//Tnetbsd-8
+D

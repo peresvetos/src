@@ -1,0 +1,19 @@
+/compile-constvar.S/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-constvar.c/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-ifunc.c/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-ifunc.exp/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-mod.c/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-nodebug.c/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-ops.c/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-ops.exp/1.1.1.3/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-print.c/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-print.exp/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-setjmp-mod.c/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-setjmp.c/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-setjmp.exp/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-shlib.c/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-tls.c/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile-tls.exp/1.1.1.2/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile.c/1.1.1.3/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+/compile.exp/1.1.1.3/Wed Oct 12 16:47:38 2016//Tnetbsd-8
+D

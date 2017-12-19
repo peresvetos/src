@@ -1,0 +1,16 @@
+/Makefile.am/1.1.1.1/Mon Jun 20 05:54:53 2011//Tnetbsd-8
+/Makefile.in/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/README/1.1.1.1/Mon Jun 20 05:54:53 2011//Tnetbsd-8
+/expr-impl.h/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/expr.c/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/expr.h/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/exprf.c/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/exprfa.c/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/exprq.c/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/exprqa.c/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/exprv.c/1.1.1.1/Mon Jun 20 05:54:53 2011//Tnetbsd-8
+/exprz.c/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/exprza.c/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/run-expr.c/1.1.1.1/Mon Jun 20 05:54:53 2011//Tnetbsd-8
+/t-expr.c/1.1.1.1/Mon Jun 20 05:54:53 2011//Tnetbsd-8
+D

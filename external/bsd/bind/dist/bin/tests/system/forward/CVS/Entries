@@ -1,0 +1,11 @@
+/clean.sh/1.1.1.5/Thu May 26 15:45:44 2016//Tnetbsd-8
+/rfc1918-inherited.conf/1.1.1.1/Thu May 26 15:45:44 2016//Tnetbsd-8
+/rfc1918-notinherited.conf/1.1.1.1/Thu May 26 15:45:44 2016//Tnetbsd-8
+/ula-inherited.conf/1.1.1.1/Thu May 26 15:45:44 2016//Tnetbsd-8
+/ula-notinherited.conf/1.1.1.1/Thu May 26 15:45:44 2016//Tnetbsd-8
+D/ns1////
+D/ns2////
+D/ns3////
+D/ns4////
+D/ns5////
+/tests.sh/1.1.1.8.8.1/Sat Jun 24 03:26:55 2017//Tnetbsd-8

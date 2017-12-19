@@ -1,0 +1,17 @@
+/bcmp.S/1.6/Sat Sep  7 19:06:29 2013//Tnetbsd-8
+/bcopy.S/1.6/Sat Sep  7 19:06:29 2013//Tnetbsd-8
+/bzero.S/1.6/Sat Sep  7 19:06:29 2013//Tnetbsd-8
+/ffs.S/1.6/Sat Sep  7 19:06:29 2013//Tnetbsd-8
+/memcmp.S/1.5/Sat Sep  7 19:06:29 2013//Tnetbsd-8
+/memcpy.S/1.1/Tue Dec 20 19:28:49 2005//Tnetbsd-8
+/memmove.S/1.1/Tue Dec 20 19:28:49 2005//Tnetbsd-8
+/memset.S/1.7/Sat Sep  7 19:06:29 2013//Tnetbsd-8
+/strcat.S/1.4/Sat Sep  7 19:06:29 2013//Tnetbsd-8
+/strchr.S/1.4/Tue Jul 16 23:24:19 2013//Tnetbsd-8
+/strcmp.S/1.7/Sat Sep  7 19:06:29 2013//Tnetbsd-8
+/strcpy.S/1.4/Sat Sep  7 19:06:29 2013//Tnetbsd-8
+/strlen.S/1.4/Sat Sep  7 19:06:29 2013//Tnetbsd-8
+/strncmp.S/1.7/Sat Sep  7 19:06:29 2013//Tnetbsd-8
+/strncpy.S/1.5/Sat Sep  7 19:06:29 2013//Tnetbsd-8
+/strrchr.S/1.4/Tue Jul 16 23:24:19 2013//Tnetbsd-8
+D

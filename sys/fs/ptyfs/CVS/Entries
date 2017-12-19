@@ -1,0 +1,7 @@
+/Makefile/1.1/Mon Jun 14 14:40:47 2010//Tnetbsd-8
+/files.ptyfs/1.4/Sat Oct 11 06:42:19 2014//Tnetbsd-8
+/ptyfs.h/1.14/Fri Aug 15 13:40:39 2014//Tnetbsd-8
+/ptyfs_subr.c/1.33/Wed Oct 15 15:00:03 2014//Tnetbsd-8
+/ptyfs_vfsops.c/1.56/Fri Feb 17 08:31:24 2017//Tnetbsd-8
+/ptyfs_vnops.c/1.54/Fri May 26 14:21:00 2017//Tnetbsd-8
+D

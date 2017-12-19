@@ -1,0 +1,57 @@
+/PR31344.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/PR31345.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/add.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/alloca.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/and.ll/1.1.1.1/Tue Jan 10 20:42:13 2017//Tnetbsd-8
+/brind.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/call.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/cmp.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/com.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/ctlz.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/ctpop.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/cttz.ll/1.1.1.1/Tue Jan 10 20:42:13 2017//Tnetbsd-8
+/directmem.ll/1.1.1.1/Tue Jan 10 20:42:13 2017//Tnetbsd-8
+/div.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/dynalloca.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/eor.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/expand-integer-failure.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/frame.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/high-pressure-on-ptrregs.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/impossible-reg-to-reg-copy.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/interrupts.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/io.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/issue-cannot-select-bswap.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/large-return-size.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/lit.local.cfg/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/load.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/lower-formal-arguments-assertion.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/mul.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/neg.ll/1.1.1.1/Tue Jan 10 20:42:13 2017//Tnetbsd-8
+/or.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/progmem-extended.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/progmem.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/rem.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/return.ll/1.1.1.1/Tue Jan 10 20:42:13 2017//Tnetbsd-8
+/runtime-trig.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/select-must-add-unconditional-jump.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/sext.ll/1.1.1.1/Tue Jan 10 20:42:13 2017//Tnetbsd-8
+/shift.ll/1.1.1.1/Tue Jan 10 20:42:13 2017//Tnetbsd-8
+/sign-extension.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/smul-with-overflow.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/store-undef.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/store.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/sub.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/trunc.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/umul-with-overflow.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/varargs.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/xor.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+/zext.ll/1.1.1.1/Tue Jan 10 20:42:14 2017//Tnetbsd-8
+D/atomics////
+D/calling-conv////
+D/features////
+D/inline-asm////
+D/instrumentation////
+D/integration////
+D/intrinsics////
+D/pseudo////
+D/relax-mem////

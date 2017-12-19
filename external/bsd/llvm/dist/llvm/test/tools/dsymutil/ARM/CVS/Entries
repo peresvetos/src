@@ -1,0 +1,10 @@
+/dummy-debug-map-amr64.map/1.1.1.1/Sat Feb 27 22:52:55 2016//Tnetbsd-8
+/dummy-debug-map.map/1.1.1.1/Tue Jan 10 20:37:07 2017//Tnetbsd-8
+/empty-map.test/1.1.1.1/Sat Feb 27 22:52:55 2016//Tnetbsd-8
+/fat-arch-name.test/1.1.1.1/Sat Feb 27 22:52:55 2016//Tnetbsd-8
+/fat-arch-not-found.test/1.1.1.1/Sat Feb 27 22:52:55 2016//Tnetbsd-8
+/inlined-low_pc.c/1.1.1.1/Sat Feb 27 22:52:55 2016//Tnetbsd-8
+/lit.local.cfg/1.1.1.1/Sat Feb 27 22:52:55 2016//Tnetbsd-8
+/scattered.c/1.1.1.1/Tue Jan 10 20:37:07 2017//Tnetbsd-8
+/thumb.c/1.1.1.1/Tue Jan 10 20:37:07 2017//Tnetbsd-8
+D

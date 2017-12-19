@@ -1,0 +1,36 @@
+/Makefile/1.16/Wed Jan 11 12:02:24 2017//Tnetbsd-8
+/Makefile.inc/1.1/Sun Feb  6 01:13:43 2011//Tnetbsd-8
+D/bugpoint////
+D/clang////
+D/clang-format////
+D/clang-tblgen////
+D/llc////
+D/lld////
+D/lldb////
+D/lli////
+D/llvm-ar////
+D/llvm-as////
+D/llvm-bcanalyzer////
+D/llvm-cov////
+D/llvm-cxxdump////
+D/llvm-cxxfilt////
+D/llvm-diff////
+D/llvm-dis////
+D/llvm-dwarfdump////
+D/llvm-dwp////
+D/llvm-extract////
+D/llvm-link////
+D/llvm-mc////
+D/llvm-mcld////
+D/llvm-nm////
+D/llvm-objdump////
+D/llvm-profdata////
+D/llvm-readobj////
+D/llvm-size////
+D/llvm-strings////
+D/llvm-symbolizer////
+D/llvm-xray////
+D/opt////
+D/sancov////
+D/sanstats////
+D/tblgen////

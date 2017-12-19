@@ -1,0 +1,11 @@
+/Makefile/1.14/Tue Nov 18 03:48:17 2014//Tnetbsd-8
+/common.h/1.7/Sun Apr 16 23:43:57 2017//Tnetbsd-8
+/main.c/1.3/Wed Jan 22 06:17:25 2014//Tnetbsd-8
+/offtab.c/1.14/Sun Apr 16 23:50:40 2017//Tnetbsd-8
+/offtab.h/1.3/Sun Apr 16 23:50:40 2017//Tnetbsd-8
+/utils.c/1.6/Tue Mar 21 13:56:38 2017//Tnetbsd-8
+/utils.h/1.3/Wed Jan 22 06:15:22 2014//Tnetbsd-8
+/vndcompress.1/1.14/Wed Jan 22 06:18:17 2014//Tnetbsd-8
+/vndcompress.c/1.28/Mon Apr 17 00:02:45 2017//Tnetbsd-8
+/vnduncompress.c/1.13/Mon Apr 17 00:03:33 2017//Tnetbsd-8
+D

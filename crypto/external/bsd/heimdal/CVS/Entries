@@ -1,0 +1,10 @@
+/Makefile/1.1/Wed Apr 13 19:16:44 2011//Tnetbsd-8
+/Makefile.inc/1.3/Tue Mar  4 21:08:08 2014//Tnetbsd-8
+/Makefile.rules.inc/1.8/Sat Jan 28 21:31:43 2017//Tnetbsd-8
+/heimdal2netbsd/1.8/Sat Jan 28 21:31:43 2017//Tnetbsd-8
+D/bin////
+D/dist////
+D/include////
+D/lib////
+D/libexec////
+D/sbin////

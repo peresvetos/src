@@ -1,0 +1,63 @@
+/README/1.1.1.1/Mon Jun 20 05:54:39 2011//Tnetbsd-8
+/addaddmul_1msb0.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/addmul_2.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/aorrlsh1_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/aorrlsh2_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/aorrlshC_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/aorrlsh_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/aors_err1_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/aors_err2_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/aors_err3_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/aors_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/aorscnd_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/aorsmul_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/bdiv_dbm1c.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/bdiv_q_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/com.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/copyd.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/copyi.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/darwin.m4/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/div_qr_2n_pi1.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/div_qr_2u_pi1.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/dive_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/divrem_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/divrem_2.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/dos64.m4/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/gcd_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/gmp-mparam.h/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/invert_limb.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/invert_limb_table.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/logops_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/lshift.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/lshiftc.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/lshsub_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/mod_1_1.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/mod_1_2.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/mod_1_4.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/mod_34lsub1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/mode1o.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/mul_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/mul_2.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/mul_basecase.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/mullo_basecase.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/mulmid_basecase.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/popham.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/redc_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/rsh1aors_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/rshift.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/sqr_basecase.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/sublsh1_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/tabselect.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+/x86_64-defs.m4/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-8
+D/atom////
+D/bd1////
+D/bobcat////
+D/core2////
+D/coreinhm////
+D/coreisbr////
+D/fastsse////
+D/fat////
+D/k10////
+D/k8////
+D/nano////
+D/pentium4////

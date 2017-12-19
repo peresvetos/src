@@ -1,0 +1,27 @@
+/all.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/any.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/count.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/flip_all.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/flip_one.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/index.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/index_const.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/left_shift.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/left_shift_eq.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/none.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/not_all.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/op_and_eq.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/op_eq_eq.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/op_or_eq.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/op_xor_eq.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/reset_all.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/reset_one.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/right_shift.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/right_shift_eq.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/set_all.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/set_one.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/size.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/test.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/to_string.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/to_ullong.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+/to_ulong.pass.cpp/1.1.1.1/Fri May 17 23:02:32 2013//Tnetbsd-8
+D

@@ -1,0 +1,17 @@
+/ansi.h/1.1.1.1/Thu Sep 16 12:23:27 1999//Tnetbsd-8
+/cdefs.h/1.1.1.1/Thu Sep 16 12:23:27 1999//Tnetbsd-8
+/cpu.h/1.1/Wed Jan 12 19:33:19 2000//Tnetbsd-8
+/cpuregs.h/1.1/Wed Jan 12 19:33:19 2000//Tnetbsd-8
+/elf_machdep.h/1.1.1.1/Thu Sep 16 12:23:27 1999//Tnetbsd-8
+/endian.h/1.1.1.1/Thu Sep 16 12:23:27 1999//Tnetbsd-8
+/endian_machdep.h/1.1/Sun Mar 19 10:46:18 2000//Tnetbsd-8
+/int_const.h/1.1/Sat May  5 08:14:22 2001//Tnetbsd-8
+/int_fmtio.h/1.1/Sat May  5 08:14:22 2001//Tnetbsd-8
+/int_limits.h/1.1/Sat May  5 08:14:22 2001//Tnetbsd-8
+/int_mwgwtypes.h/1.1/Sat May  5 08:14:22 2001//Tnetbsd-8
+/int_types.h/1.2/Thu Jan  4 06:01:41 2001//Tnetbsd-8
+/limits.h/1.1.1.1/Thu Sep 16 12:23:27 1999//Tnetbsd-8
+/mips_param.h/1.1.1.1/Thu Sep 16 12:23:27 1999//Tnetbsd-8
+/signal.h/1.1.1.1/Thu Sep 16 12:23:27 1999//Tnetbsd-8
+/types.h/1.4/Thu Jan  4 06:01:41 2001//Tnetbsd-8
+D

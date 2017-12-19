@@ -1,0 +1,23 @@
+/host1.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-8
+/irq1.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-8
+/irq2.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-8
+/irq3.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-8
+/irq4.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-8
+/irq5.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-8
+/irq6.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-8
+/mbox1.ms/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-8
+/mem1.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-8
+/mem2.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-8
+/poll1.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-8
+/quit.s/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-8
+/rvc.exp/1.1.1.5/Wed Oct 12 16:48:05 2016//Tnetbsd-8
+/std.dev/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-8
+/testutils.inc/1.1.1.1/Sat Sep 24 20:04:07 2011//Tnetbsd-8
+/trivial1.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-8
+/trivial2.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-8
+/trivial3.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-8
+/trivial4.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-8
+/trivial4.r/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-8
+/trivial5.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-8
+/wd1.ms/1.1.1.1/Sat Sep 24 20:04:08 2011//Tnetbsd-8
+D

@@ -1,0 +1,18 @@
+/ad.aarch64/1.1/Sun Aug 10 05:47:35 2014//Tnetbsd-8
+/ad.arm/1.10/Thu Dec 15 12:56:52 2016//Tnetbsd-8
+/ad.m68k/1.2/Fri Oct 15 12:20:33 2010//Tnetbsd-8
+/ad.mips/1.10/Thu Dec 15 12:56:52 2016//Tnetbsd-8
+/ad.powerpc/1.1/Mon Sep  7 02:27:29 2009//Tnetbsd-8
+/ad.sh3/1.1/Mon Sep  7 02:27:29 2009//Tnetbsd-8
+/md.alpha/1.5/Tue Sep 27 20:52:43 2016//Tnetbsd-8
+/md.amd64/1.72/Thu Dec 15 12:56:52 2016//Tnetbsd-8
+/md.hppa/1.6/Thu Dec 15 12:56:52 2016//Tnetbsd-8
+/md.i386/1.73/Thu Dec 15 12:56:52 2016//Tnetbsd-8
+/md.ia64/1.5/Thu Dec 15 12:56:52 2016//Tnetbsd-8
+/md.prep/1.2/Tue Sep 27 20:52:43 2016//Tnetbsd-8
+/md.sgimips/1.2/Tue Sep 27 20:52:43 2016//Tnetbsd-8
+/md.sparc/1.5/Sun Aug 10 11:51:40 2014//Tnetbsd-8
+/md.sparc64/1.4/Sun Aug 10 11:51:40 2014//Tnetbsd-8
+/md.vax/1.1/Mon Sep  7 02:27:29 2009//Tnetbsd-8
+/mi/1.110/Thu Jun  1 09:59:13 2017//Tnetbsd-8
+D

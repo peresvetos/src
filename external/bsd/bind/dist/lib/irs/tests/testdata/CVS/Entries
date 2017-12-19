@@ -1,0 +1,15 @@
+/domain.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+/nameserver-v4.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+/nameserver-v6.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+/options-debug.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+/options-ndots.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+/options-timeout.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+/options-unknown.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+/options.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+/port.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+/resolv.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+/search.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+/sortlist-v4.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+/timeout.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+/unknown.conf/1.1.1.1.8.2/Wed Jun 21 18:03:45 2017//Tnetbsd-8
+D

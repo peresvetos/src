@@ -1,0 +1,10 @@
+/t_bitops.c/1.19/Sat Mar 21 05:50:19 2015//Tnetbsd-8
+/t_bootblock.c/1.1/Sat Jul 17 19:26:27 2010//Tnetbsd-8
+/t_cdefs.c/1.4/Wed Mar 16 07:21:36 2016//Tnetbsd-8
+/t_pslist.c/1.1/Sat Apr  9 04:39:47 2016//Tnetbsd-8
+/t_socket.c/1.5/Fri Jan 13 21:30:41 2017//Tnetbsd-8
+/t_tree.c/1.1/Thu May  5 13:36:05 2011//Tnetbsd-8
+/t_types.c/1.4/Sun Mar 18 07:14:08 2012//Tnetbsd-8
+/Makefile/1.12.6.1/Wed Oct  4 03:08:58 2017//Tnetbsd-8
+/t_list.c/1.2.2.2/Mon Oct  2 13:21:40 2017//Tnetbsd-8
+D

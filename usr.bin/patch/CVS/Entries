@@ -1,0 +1,15 @@
+/Makefile/1.9/Fri Sep 19 18:33:34 2008//Tnetbsd-8
+/backupfile.c/1.15/Fri Apr 11 17:30:03 2014//Tnetbsd-8
+/backupfile.h/1.6/Fri Sep 19 18:33:34 2008//Tnetbsd-8
+/common.h/1.21/Fri Jul 24 18:56:44 2015//Tnetbsd-8
+/inp.c/1.24/Fri Jul 24 18:56:00 2015//Tnetbsd-8
+/inp.h/1.10/Fri Sep 19 18:33:34 2008//Tnetbsd-8
+/mkpath.c/1.1/Fri Sep 19 18:33:34 2008//Tnetbsd-8
+/patch.1/1.20/Sat Nov  7 18:26:55 2015//Tnetbsd-8
+/patch.c/1.29/Tue Sep  6 18:25:14 2011//Tnetbsd-8
+/pathnames.h/1.1/Fri Sep 19 18:33:34 2008//Tnetbsd-8
+/pch.c/1.28/Thu Jul 30 21:47:51 2015//Tnetbsd-8
+/pch.h/1.10/Fri Sep 19 18:33:34 2008//Tnetbsd-8
+/util.c/1.27/Sat Nov  7 18:11:21 2015//Tnetbsd-8
+/util.h/1.12/Tue Sep  6 18:25:14 2011//Tnetbsd-8
+D

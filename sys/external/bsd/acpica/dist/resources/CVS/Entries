@@ -1,0 +1,15 @@
+/rsaddr.c/1.1.1.7/Wed Jan 25 13:03:54 2017//Tnetbsd-8
+/rscalc.c/1.1.1.7/Wed Jan 25 13:03:54 2017//Tnetbsd-8
+/rscreate.c/1.1.1.8/Wed Jan 25 13:03:54 2017//Tnetbsd-8
+/rsdump.c/1.9/Wed Jan 25 13:38:22 2017//Tnetbsd-8
+/rsdumpinfo.c/1.7/Wed Jan 25 13:38:22 2017//Tnetbsd-8
+/rsinfo.c/1.1.1.7/Wed Jan 25 13:03:54 2017//Tnetbsd-8
+/rsio.c/1.1.1.7/Wed Jan 25 13:03:54 2017//Tnetbsd-8
+/rsirq.c/1.1.1.7/Wed Jan 25 13:03:54 2017//Tnetbsd-8
+/rslist.c/1.1.1.7/Wed Jan 25 13:03:54 2017//Tnetbsd-8
+/rsmemory.c/1.1.1.7/Wed Jan 25 13:03:54 2017//Tnetbsd-8
+/rsmisc.c/1.1.1.8/Wed Jan 25 13:03:54 2017//Tnetbsd-8
+/rsserial.c/1.1.1.6/Wed Jan 25 13:03:54 2017//Tnetbsd-8
+/rsutils.c/1.10/Wed Jan 25 13:38:22 2017//Tnetbsd-8
+/rsxface.c/1.9/Wed Jan 25 13:38:22 2017//Tnetbsd-8
+D

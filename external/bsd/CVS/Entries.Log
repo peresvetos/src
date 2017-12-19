@@ -1,0 +1,10 @@
+A D/bin////
+A D/dist////
+A D/libdwarf////
+A D/libelf////
+A D/libfetch////
+R D/libfetch////
+R D/libelf////
+R D/libdwarf////
+R D/dist////
+R D/bin////

@@ -1,0 +1,9 @@
+/coff-dwarf.test/1.1.1.2/Tue Jan 10 20:37:32 2017//Tnetbsd-8
+/coff-exports.test/1.1.1.2/Thu Feb  9 17:33:43 2017//Tnetbsd-8
+/dsym.test/1.1.1.1/Thu Jan 29 19:54:45 2015//Tnetbsd-8
+/fat.test/1.1.1.1/Sat Feb 27 22:52:53 2016//Tnetbsd-8
+/ppc64.test/1.1.1.1/Thu Jan 29 19:54:45 2015//Tnetbsd-8
+/print_context.c/1.1.1.2/Tue Jan 10 20:37:32 2017//Tnetbsd-8
+/sym.test/1.1.1.1/Sat Feb 27 22:52:53 2016//Tnetbsd-8
+D/Inputs////
+D/pdb////

@@ -1,0 +1,7 @@
+/expected-target-index-name.mir/1.1.1.2/Tue Jan 10 20:42:20 2017//Tnetbsd-8
+/fold-imm-f16-f32.mir/1.1.1.1/Tue Jan 10 20:42:20 2017//Tnetbsd-8
+/intrinsics.mir/1.1.1.1/Tue Jan 10 20:42:20 2017//Tnetbsd-8
+/invalid-target-index-operand.mir/1.1.1.2/Tue Jan 10 20:42:20 2017//Tnetbsd-8
+/lit.local.cfg/1.1.1.1/Sat Feb 27 22:53:09 2016//Tnetbsd-8
+/target-index-operands.mir/1.1.1.2/Tue Jan 10 20:42:20 2017//Tnetbsd-8
+D

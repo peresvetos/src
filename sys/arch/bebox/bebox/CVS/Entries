@@ -1,0 +1,8 @@
+/autoconf.c/1.27/Sun Dec 13 19:38:09 2015//Tnetbsd-8
+/cpu.c/1.12/Sat Oct 20 14:53:37 2012//Tnetbsd-8
+/ipi_bebox.c/1.1/Sat Oct 20 14:53:37 2012//Tnetbsd-8
+/locore.S/1.28/Sat Oct 20 14:53:37 2012//Tnetbsd-8
+/machdep.c/1.107/Sun Apr 21 15:42:11 2013//Tnetbsd-8
+/mainbus.c/1.29/Fri Jan 27 18:52:52 2012//Tnetbsd-8
+/pic_bebox.c/1.10/Sat Oct 20 14:56:31 2012//Tnetbsd-8
+D

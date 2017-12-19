@@ -1,0 +1,27 @@
+/Makefile.am/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/Makefile.in/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/README/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/deref.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/dir-example/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/fix-info-dir/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/fixfonts/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/fixref.gawk/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/gdoc/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/gen-dir-node/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/gendocs.sh/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/gendocs_template/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/infosrch/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/install-info-html/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/install-info.c/1.2/Thu Jan 14 00:34:53 2016//Tnetbsd-8
+/outline.gawk/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/prepinfo.awk/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/tex3patch/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/texi-docstring-magic.el/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/texi2dvi/1.2/Thu Jan 14 00:34:53 2016//Tnetbsd-8
+/texi2pdf/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/texindex.c/1.2/Thu Jan 14 00:34:53 2016//Tnetbsd-8
+/texinfo-cat.in/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/texinfo.dtd/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/texinfo.xsl/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+/txitextest/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-8
+D

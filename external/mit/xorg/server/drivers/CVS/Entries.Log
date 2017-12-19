@@ -1,0 +1,12 @@
+A D/xf86-input-void////
+A D/xf86-video-cyrix////
+A D/xf86-video-nvxbox////
+A D/xf86-video-radeonhd////
+A D/xf86-video-vga////
+A D/xf86-video-via////
+R D/xf86-video-via////
+R D/xf86-video-vga////
+R D/xf86-video-radeonhd////
+R D/xf86-video-nvxbox////
+R D/xf86-video-cyrix////
+R D/xf86-input-void////

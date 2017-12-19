@@ -1,0 +1,14 @@
+/Makefile/1.12/Wed Apr 22 15:23:07 2009//Tnetbsd-8
+/check_bound.c/1.6/Sun Nov  8 16:36:28 2015//Tnetbsd-8
+/pmap_svc.c/1.8/Sun Nov  8 16:36:28 2015//Tnetbsd-8
+/rpcb_stat.c/1.5/Sun May 13 20:03:47 2007//Tnetbsd-8
+/rpcb_svc.c/1.3/Wed Aug 31 16:25:00 2011//Tnetbsd-8
+/rpcb_svc_4.c/1.7/Wed Aug 31 16:25:00 2011//Tnetbsd-8
+/rpcb_svc_com.c/1.19/Wed May  3 21:28:00 2017//Tnetbsd-8
+/rpcbind.8/1.11/Wed Mar 11 14:00:11 2009//Tnetbsd-8
+/rpcbind.c/1.23/Sun Nov  8 16:36:28 2015//Tnetbsd-8
+/rpcbind.h/1.5/Wed Aug 31 13:32:40 2011//Tnetbsd-8
+/security.c/1.11/Sun Jan 18 10:17:38 2009//Tnetbsd-8
+/util.c/1.20/Sun Nov  8 16:36:28 2015//Tnetbsd-8
+/warmstart.c/1.3/Fri Oct 12 21:24:01 2007//Tnetbsd-8
+D

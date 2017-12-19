@@ -1,0 +1,8 @@
+/adjustable_threshold.ll/1.1.1.1/Tue Jan 10 20:46:21 2017//Tnetbsd-8
+/funcimport.ll/1.1.1.2/Tue Jan 10 20:46:21 2017//Tnetbsd-8
+/funcimport_alias.ll/1.1.1.2/Tue Jan 10 20:46:21 2017//Tnetbsd-8
+/funcimport_debug.ll/1.1.1.2/Tue Jan 10 20:46:21 2017//Tnetbsd-8
+/hotness_based_import.ll/1.1.1.1/Tue Jan 10 20:46:21 2017//Tnetbsd-8
+/hotness_based_import2.ll/1.1.1.1/Tue Jan 10 20:46:21 2017//Tnetbsd-8
+/inlineasm.ll/1.1.1.1/Tue Jan 10 20:46:21 2017//Tnetbsd-8
+D/Inputs////

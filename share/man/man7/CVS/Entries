@@ -1,0 +1,27 @@
+/Makefile/1.31/Tue Dec  2 03:51:48 2014//Tnetbsd-8
+/ascii.7/1.7/Thu Aug  7 10:31:18 2003//Tnetbsd-8
+/c.7/1.14/Tue Mar 18 18:20:40 2014//Tnetbsd-8
+/glob.7/1.3/Wed Jan 19 00:33:10 2011//Tnetbsd-8
+/hier.7/1.122/Sat Aug 27 03:57:21 2016//Tnetbsd-8
+/hostname.7/1.13/Thu Mar 29 18:37:21 2012//Tnetbsd-8
+/intro.7/1.23/Sun Jul  1 16:18:00 2012//Tnetbsd-8
+/mailaddr.7/1.14/Mon Mar  1 16:52:41 2010//Tnetbsd-8
+/module.7/1.5/Tue Sep 22 08:29:30 2015//Tnetbsd-8
+/nls.7/1.15/Thu Apr  9 02:51:54 2009//Tnetbsd-8
+/operator.7/1.11/Tue Jan 18 23:36:07 2011//Tnetbsd-8
+/orders.7/1.6/Sat Aug  6 11:07:18 2011//Tnetbsd-8
+/pkgsrc.7/1.6/Tue Mar 23 16:04:45 2010//Tnetbsd-8
+/release.7/1.36/Mon Nov  3 20:16:50 2014//Tnetbsd-8
+/rfc6056.7/1.4/Sun Jul  1 17:00:32 2012//Tnetbsd-8
+/script.7/1.6/Mon Mar 22 18:58:32 2010//Tnetbsd-8
+/security.7/1.14/Sat May 21 21:07:43 2016//Tnetbsd-8
+/setuid.7/1.7/Tue Mar 18 18:20:40 2014//Tnetbsd-8
+/signal.7/1.20/Tue Jul 12 12:39:04 2016//Tnetbsd-8
+/src.7/1.11/Wed Feb 15 17:44:52 2017//Tnetbsd-8
+/sticky.7/1.6/Tue May 10 17:00:44 2011//Tnetbsd-8
+/symlink.7/1.25/Mon Apr 24 09:42:19 2017//Tnetbsd-8
+/tests.atf.7/1.7/Thu Jul 30 03:21:33 2015//Tnetbsd-8
+/tests.kyua.7/1.7/Thu Jul 30 03:21:33 2015//Tnetbsd-8
+/environ.7/1.26.4.1/Mon Jul 24 03:08:19 2017//Tnetbsd-8
+/sysctl.7/1.113.4.1/Wed Jul 26 03:08:22 2017//Tnetbsd-8
+D

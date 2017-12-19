@@ -1,0 +1,13 @@
+/ffs.S/1.2/Sat Mar 22 19:38:46 2014//Tnetbsd-8
+/memchr.S/1.2/Sat Mar 22 19:38:46 2014//Tnetbsd-8
+/memcmp.S/1.3/Sat Mar 22 19:38:46 2014//Tnetbsd-8
+/memcpy.S/1.4/Sat Mar 22 19:38:46 2014//Tnetbsd-8
+/memmove.S/1.1/Tue Dec 20 19:28:49 2005//Tnetbsd-8
+/memset.S/1.5/Fri May 23 03:17:31 2014//Tnetbsd-8
+/strcat.S/1.2/Sat Mar 22 19:38:46 2014//Tnetbsd-8
+/strchr.S/1.3/Sat Mar 22 19:38:46 2014//Tnetbsd-8
+/strcmp.S/1.2/Sat Mar 22 19:38:46 2014//Tnetbsd-8
+/strcpy.S/1.2/Sat Mar 22 19:38:46 2014//Tnetbsd-8
+/strlen.S/1.2/Sat Mar 22 19:38:46 2014//Tnetbsd-8
+/strrchr.S/1.3/Sat Mar 22 19:38:46 2014//Tnetbsd-8
+D/small////

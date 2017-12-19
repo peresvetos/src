@@ -1,0 +1,10 @@
+/max_align_t.pass.cpp/1.1.1.1/Thu Aug 20 09:31:51 2015//Tnetbsd-8
+/null.pass.cpp/1.1.1.1/Thu Aug 20 09:31:51 2015//Tnetbsd-8
+/nullptr_t.pass.cpp/1.1.1.1/Thu Aug 20 09:31:51 2015//Tnetbsd-8
+/nullptr_t_integral_cast.fail.cpp/1.1.1.1/Thu Aug 20 09:31:51 2015//Tnetbsd-8
+/nullptr_t_integral_cast.pass.cpp/1.1.1.1/Thu Aug 20 09:31:51 2015//Tnetbsd-8
+/offsetof.pass.cpp/1.1.1.1/Thu Aug 20 09:31:51 2015//Tnetbsd-8
+/ptrdiff_t.pass.cpp/1.1.1.1/Thu Aug 20 09:31:51 2015//Tnetbsd-8
+/size_t.pass.cpp/1.1.1.1/Thu Aug 20 09:31:51 2015//Tnetbsd-8
+/version.pass.cpp/1.1.1.1/Thu Aug 20 09:31:51 2015//Tnetbsd-8
+D

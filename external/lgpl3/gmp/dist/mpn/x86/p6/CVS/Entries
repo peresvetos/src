@@ -1,0 +1,16 @@
+/README/1.1.1.2/Fri Nov 29 07:49:49 2013//Tnetbsd-8
+/aors_n.asm/1.1.1.2/Fri Nov 29 07:49:49 2013//Tnetbsd-8
+/aorsmul_1.asm/1.1.1.2/Fri Nov 29 07:49:49 2013//Tnetbsd-8
+/bdiv_q_1.asm/1.1.1.1/Fri Nov 29 07:49:49 2013//Tnetbsd-8
+/copyd.asm/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-8
+/dive_1.asm/1.1.1.2/Fri Nov 29 07:49:49 2013//Tnetbsd-8
+/gcd_1.asm/1.1.1.1/Fri Nov 29 07:49:49 2013//Tnetbsd-8
+/gmp-mparam.h/1.1.1.2/Fri Nov 29 07:49:49 2013//Tnetbsd-8
+/lshsub_n.asm/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-8
+/mod_34lsub1.asm/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-8
+/mode1o.asm/1.1.1.2/Fri Nov 29 07:49:49 2013//Tnetbsd-8
+/mul_basecase.asm/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-8
+/sqr_basecase.asm/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-8
+D/mmx////
+D/p3mmx////
+D/sse2////

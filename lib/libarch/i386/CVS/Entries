@@ -1,0 +1,16 @@
+/Makefile.inc/1.15/Mon Jun  8 04:08:30 2015//Tnetbsd-8
+/i386_get_ioperm.c/1.7/Wed Mar 21 21:37:29 2012//Tnetbsd-8
+/i386_get_ldt.2/1.13/Thu Aug  7 16:42:00 2003//Tnetbsd-8
+/i386_get_ldt.c/1.7/Wed Mar 21 21:37:29 2012//Tnetbsd-8
+/i386_get_mtrr.2/1.13/Wed Apr 30 13:10:50 2008//Tnetbsd-8
+/i386_iopl.2/1.17/Wed Apr 30 13:10:50 2008//Tnetbsd-8
+/i386_iopl.c/1.6/Wed Mar 21 21:37:29 2012//Tnetbsd-8
+/i386_mtrr.c/1.1/Mon Sep 10 10:20:32 2001//Tnetbsd-8
+/i386_pmc.c/1.4/Wed Mar  8 16:09:27 2017//Tnetbsd-8
+/i386_pmc_info.2/1.11/Wed Apr 30 13:10:50 2008//Tnetbsd-8
+/i386_set_ioperm.c/1.7/Wed Mar 21 21:37:29 2012//Tnetbsd-8
+/i386_set_ldt.c/1.7/Wed Mar 21 21:37:29 2012//Tnetbsd-8
+/i386_vm86.2/1.13/Wed Apr 30 13:10:50 2008//Tnetbsd-8
+/i386_vm86.c/1.10/Wed Mar 21 21:37:29 2012//Tnetbsd-8
+/shlib_version/1.6/Thu Sep 11 19:19:31 2003//Tnetbsd-8
+D

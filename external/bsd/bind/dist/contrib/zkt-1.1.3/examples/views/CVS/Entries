@@ -1,0 +1,12 @@
+/dnssec-extern.conf/1.1.1.1/Wed Jul  8 15:37:54 2015//Tnetbsd-8
+/dnssec-intern.conf/1.1.1.1/Wed Jul  8 15:37:54 2015//Tnetbsd-8
+/dnssec-signer-extern/1.1.1.1/Wed Jul  8 15:37:54 2015//Tnetbsd-8
+/dnssec-signer-intern/1.1.1.1/Wed Jul  8 15:37:54 2015//Tnetbsd-8
+/dnssec-zkt-extern/1.1.1.1/Wed Jul  8 15:37:54 2015//Tnetbsd-8
+/dnssec-zkt-intern/1.1.1.1/Wed Jul  8 15:37:54 2015//Tnetbsd-8
+/named.conf/1.1.1.1/Wed Jul  8 15:37:54 2015//Tnetbsd-8
+/named.log/1.1.1.1/Wed Jul  8 15:37:54 2015//Tnetbsd-8
+/root.hint/1.1.1.1/Wed Jul  8 15:37:54 2015//Tnetbsd-8
+/viewtest.sh/1.1.1.1/Wed Jul  8 15:37:54 2015//Tnetbsd-8
+D/extern////
+D/intern////

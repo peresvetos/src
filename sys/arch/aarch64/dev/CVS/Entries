@@ -1,0 +1,9 @@
+/a64gic_mainbus.c/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-8
+/a64gtmr.c/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-8
+/a64gtmr_intr.h/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-8
+/a64gtmr_var.h/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-8
+/cpu.c/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-8
+/cpucore.c/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-8
+/cpunode.c/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-8
+/mainbus.c/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-8
+D

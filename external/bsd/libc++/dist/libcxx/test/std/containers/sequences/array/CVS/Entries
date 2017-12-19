@@ -1,0 +1,17 @@
+/at.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//Tnetbsd-8
+/begin.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//Tnetbsd-8
+/contiguous.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//Tnetbsd-8
+/front_back.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//Tnetbsd-8
+/indexing.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//Tnetbsd-8
+/iterators.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//Tnetbsd-8
+/suppress_array_warnings.h/1.1.1.1/Thu Aug 20 09:31:52 2015//Tnetbsd-8
+/types.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//Tnetbsd-8
+/version.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//Tnetbsd-8
+D/array.cons////
+D/array.data////
+D/array.fill////
+D/array.size////
+D/array.special////
+D/array.swap////
+D/array.tuple////
+D/array.zero////

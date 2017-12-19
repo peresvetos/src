@@ -1,0 +1,13 @@
+/admgpio.c/1.4/Fri Jul  1 18:38:49 2011//Tnetbsd-8
+/admpci.c/1.13/Fri Oct  2 05:22:51 2015//Tnetbsd-8
+/admwdog.c/1.4/Sat Oct 27 17:18:01 2012//Tnetbsd-8
+/ahci.c/1.14/Thu Jun  1 02:45:06 2017//Tnetbsd-8
+/ahcireg.h/1.2/Sat Apr 23 10:15:29 2016//Tnetbsd-8
+/ahcivar.h/1.6/Sat Apr 23 10:15:29 2016//Tnetbsd-8
+/if_admsw.c/1.16/Thu Dec 15 09:28:03 2016//Tnetbsd-8
+/if_admswreg.h/1.1/Tue Mar 20 08:52:02 2007//Tnetbsd-8
+/if_admswvar.h/1.5/Sat Oct 27 17:18:01 2012//Tnetbsd-8
+/uart.c/1.12/Fri Jul 25 08:10:34 2014//Tnetbsd-8
+/uart.h/1.1/Tue Mar 20 08:52:02 2007//Tnetbsd-8
+/wdc_extio.c/1.8/Tue Jul 31 15:50:33 2012//Tnetbsd-8
+D

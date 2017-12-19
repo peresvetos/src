@@ -1,0 +1,23 @@
+/mailq.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-8
+/newaliases.1/1.1.1.1/Tue Jun 23 10:08:32 2009//Tnetbsd-8
+/postalias.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/postcat.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/postconf.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/postdrop.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/postfix-tls.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/postfix.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/postkick.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/postlock.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/postlog.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/postmap.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/postmulti.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/postqueue.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/postsuper.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/posttls-finger.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/qmqp-sink.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/qmqp-source.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/qshape.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/sendmail.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/smtp-sink.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+/smtp-source.1/1.2/Tue Feb 14 01:16:44 2017//Tnetbsd-8
+D

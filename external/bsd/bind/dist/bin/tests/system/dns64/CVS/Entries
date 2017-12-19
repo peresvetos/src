@@ -1,0 +1,7 @@
+/clean.sh/1.1.1.5/Thu May 26 15:45:43 2016//Tnetbsd-8
+/prereq.sh/1.1.1.2/Wed Dec 10 02:25:16 2014//Tnetbsd-8
+/setup.sh/1.1.1.6/Wed Dec 10 02:25:16 2014//Tnetbsd-8
+D/conf////
+D/ns1////
+D/ns2////
+/tests.sh/1.1.1.5.8.1/Sat Jun 24 03:26:55 2017//Tnetbsd-8

@@ -1,0 +1,23 @@
+/Makefile.in/1.1.1.1/Tue Feb  9 20:29:11 2016//Tnetbsd-8
+/cc.din/1.1.1.1/Tue Feb  9 20:29:11 2016//Tnetbsd-8
+/config.h/1.1.1.1/Tue Feb  9 20:29:12 2016//Tnetbsd-8
+/driver.c/1.1.1.1/Tue Feb  9 20:29:13 2016//Tnetbsd-8
+/driver.h/1.1.1.1/Tue Feb  9 20:29:13 2016//Tnetbsd-8
+/driver.man/1.1.1.1/Tue Feb  9 20:29:12 2016//Tnetbsd-8
+/list.c/1.1.1.1/Tue Feb  9 20:29:12 2016//Tnetbsd-8
+/mkopt.sh/1.1.1.1/Tue Feb  9 20:29:13 2016//Tnetbsd-8
+/opt.c.in/1.1.1.1/Tue Feb  9 20:29:13 2016//Tnetbsd-8
+/options.c/1.1.1.1/Tue Feb  9 20:29:13 2016//Tnetbsd-8
+/osdefs.h/1.1.1.1/Tue Feb  9 20:29:11 2016//Tnetbsd-8
+/path.c/1.1.1.1/Tue Feb  9 20:29:12 2016//Tnetbsd-8
+/platform.c/1.1.1.1/Tue Feb  9 20:29:12 2016//Tnetbsd-8
+/prog_asm.c/1.1.1.1/Tue Feb  9 20:29:12 2016//Tnetbsd-8
+/prog_ccom.c/1.1.1.1/Tue Feb  9 20:29:12 2016//Tnetbsd-8
+/prog_cpp.c/1.1.1.1/Tue Feb  9 20:29:13 2016//Tnetbsd-8
+/prog_cxxcom.c/1.1.1.1/Tue Feb  9 20:29:13 2016//Tnetbsd-8
+/prog_fcom.c/1.1.1.1/Tue Feb  9 20:29:13 2016//Tnetbsd-8
+/prog_link.c/1.1.1.1/Tue Feb  9 20:29:13 2016//Tnetbsd-8
+/target.c/1.1.1.1/Tue Feb  9 20:29:13 2016//Tnetbsd-8
+/wflag.c/1.1.1.1/Tue Feb  9 20:29:13 2016//Tnetbsd-8
+/xalloc.c/1.1.1.1/Tue Feb  9 20:29:13 2016//Tnetbsd-8
+D

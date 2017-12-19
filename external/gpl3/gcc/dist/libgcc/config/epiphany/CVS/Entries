@@ -1,0 +1,24 @@
+/crti.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/crtint.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/crtm1reg-r43.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/crtm1reg-r63.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/crtn.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/crtrunc.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/divsi3-float.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/divsi3.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/divsi3.c/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/epiphany-asm.h/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/modsi3-float.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/modsi3.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/modsi3.c/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/mulsi3.c/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/t-custom-eqsf/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-8
+/t-epiphany/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/udivsi3-float.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/udivsi3-float.c/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/udivsi3.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/udivsi3.c/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/umodsi3-float.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/umodsi3.S/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/umodsi3.c/1.1.1.2/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+D/ieee-754////

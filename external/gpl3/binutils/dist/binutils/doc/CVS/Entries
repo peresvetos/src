@@ -1,0 +1,22 @@
+/Makefile.am/1.5/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/Makefile.in/1.9/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/addr2line.1/1.7/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/ar.1/1.8/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/binutils.info/1.7/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/binutils.texi/1.8/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/cxxfilt.man/1.7/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/dlltool.1/1.7/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/elfedit.1/1.6/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/fdl.texi/1.1.1.2/Sat Sep 24 22:41:00 2011//Tnetbsd-8
+/nlmconv.1/1.7/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/nm.1/1.7/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/objcopy.1/1.7/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/objdump.1/1.7/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/ranlib.1/1.7/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/readelf.1/1.8/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/size.1/1.7/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/strings.1/1.8/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/strip.1/1.7/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/windmc.1/1.7/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+/windres.1/1.7/Wed Oct 26 18:42:53 2016//Tnetbsd-8
+D

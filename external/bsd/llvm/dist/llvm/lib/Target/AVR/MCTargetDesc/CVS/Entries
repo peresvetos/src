@@ -1,0 +1,19 @@
+/AVRAsmBackend.cpp/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRAsmBackend.h/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRELFObjectWriter.cpp/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRELFStreamer.cpp/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRELFStreamer.h/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRFixupKinds.h/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRMCAsmInfo.cpp/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRMCAsmInfo.h/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRMCCodeEmitter.cpp/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRMCCodeEmitter.h/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRMCExpr.cpp/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRMCExpr.h/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRMCTargetDesc.cpp/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRMCTargetDesc.h/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRTargetStreamer.cpp/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/AVRTargetStreamer.h/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/CMakeLists.txt/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+/LLVMBuild.txt/1.1.1.1/Tue Jan 10 20:35:55 2017//Tnetbsd-8
+D

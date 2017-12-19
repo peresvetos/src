@@ -1,0 +1,8 @@
+/clean.sh/1.1.1.7/Thu May 26 15:45:44 2016//Tnetbsd-8
+/prereq.sh/1.1.1.7/Wed Dec 10 02:25:18 2014//Tnetbsd-8
+/setup.sh/1.1.1.9/Wed Dec 10 02:25:18 2014//Tnetbsd-8
+D/ns1////
+/Makefile.in/1.1.1.9.8.1/Sat Jun 24 03:26:55 2017//Tnetbsd-8
+/keycreate.c/1.8.8.1/Sat Jun 24 03:26:55 2017//Tnetbsd-8
+/keydelete.c/1.7.8.1/Sat Jun 24 03:26:55 2017//Tnetbsd-8
+/tests.sh/1.1.1.7.18.1/Sat Jun 24 03:26:55 2017//Tnetbsd-8

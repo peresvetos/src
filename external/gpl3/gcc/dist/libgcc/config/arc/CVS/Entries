@@ -1,0 +1,16 @@
+/asm.h/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/crtg.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/crtgend.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/crti.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/crtn.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/divtab-arc700.c/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/dp-hack.h/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/fp-hack.h/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/initfini.c/1.1.1.1/Sun Jan 24 06:06:00 2016//Tnetbsd-8
+/lib1funcs.S/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/libgcc-excl.ver/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/t-arc/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/t-arc-newlib/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+/t-arc700-uClibc/1.1.1.1/Sun Jan 24 06:06:01 2016//Tnetbsd-8
+D/gmon////
+D/ieee-754////

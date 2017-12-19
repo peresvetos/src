@@ -1,0 +1,21 @@
+/.coveragerc/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-8
+/discovery.py/1.1.1.2/Sat Feb 27 22:51:41 2016//Tnetbsd-8
+/googletest-format.py/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-8
+/googletest-timeout.py/1.1.1.1/Sat Feb 27 22:51:41 2016//Tnetbsd-8
+/googletest-upstream-format.py/1.1.1.1/Tue Jan 10 18:22:48 2017//Tnetbsd-8
+/lit.cfg/1.1.1.2/Sat Feb 27 22:51:41 2016//Tnetbsd-8
+/max-failures.py/1.1.1.1/Tue Jan 10 18:22:48 2017//Tnetbsd-8
+/progress-bar.py/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-8
+/shell-parsing.py/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-8
+/shtest-encoding.py/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-8
+/shtest-format.py/1.1.1.2/Tue Jan 10 18:22:48 2017//Tnetbsd-8
+/shtest-output-printing.py/1.1.1.1/Tue Jan 10 18:22:48 2017//Tnetbsd-8
+/shtest-shell.py/1.1.1.2/Tue Jan 10 18:22:48 2017//Tnetbsd-8
+/shtest-timeout.py/1.1.1.2/Tue Jan 10 18:22:48 2017//Tnetbsd-8
+/test-data.py/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-8
+/test-output.py/1.1.1.2/Thu Jan 29 19:54:49 2015//Tnetbsd-8
+/unittest-adaptor.py/1.1.1.2/Sat Feb 27 22:51:41 2016//Tnetbsd-8
+/usage.py/1.1.1.2/Tue Jan 10 18:22:48 2017//Tnetbsd-8
+/xunit-output.py/1.1.1.2/Sat Feb 27 22:51:41 2016//Tnetbsd-8
+D/Inputs////
+D/unit////

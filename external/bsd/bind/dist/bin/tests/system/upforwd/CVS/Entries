@@ -1,0 +1,12 @@
+/clean.sh/1.1.1.6/Thu May 26 15:45:44 2016//Tnetbsd-8
+/knowngood.after1/1.1.1.1/Sun Mar 22 14:57:00 2009//Tnetbsd-8
+/knowngood.after2/1.1.1.1/Sun Mar 22 14:57:00 2009//Tnetbsd-8
+/knowngood.before/1.1.1.1/Sun Mar 22 14:57:00 2009//Tnetbsd-8
+/knowngood.ns2.before/1.1.1.1/Sun Mar 22 14:57:00 2009//Tnetbsd-8
+/prereq.sh/1.1.1.2/Fri Feb 28 17:40:08 2014//Tnetbsd-8
+D/ans4////
+D/ns1////
+D/ns2////
+D/ns3////
+/setup.sh/1.1.1.5.8.1/Sat Jun 24 03:26:55 2017//Tnetbsd-8
+/tests.sh/1.1.1.6.8.1/Sat Jun 24 03:26:55 2017//Tnetbsd-8

@@ -1,0 +1,37 @@
+/Makefile/1.8/Wed Jun 25 03:33:39 2008//Tnetbsd-8
+/Makefile.inc/1.1/Mon Apr  4 19:43:34 2011//Tnetbsd-8
+D/allwinner////
+D/amlogic////
+D/arm////
+D/arm32////
+D/at91////
+D/broadcom////
+D/clps711x////
+D/conf////
+D/cortex////
+D/cortina////
+D/ep93xx////
+D/fdt////
+D/footbridge////
+D/gemini////
+D/imx////
+D/include////
+D/iomd////
+D/ixp12x0////
+D/mainbus////
+D/marvell////
+D/mpcore////
+D/nvidia////
+D/ofw////
+D/omap////
+D/pic////
+D/rockchip////
+D/s3c2xx0////
+D/sa11x0////
+D/samsung////
+D/vexpress////
+D/vfp////
+D/xscale////
+D/zynq////
+D/sunxi////
+D/dts////

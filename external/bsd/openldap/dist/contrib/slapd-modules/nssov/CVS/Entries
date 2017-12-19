@@ -1,0 +1,19 @@
+/Makefile/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/README/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/alias.c/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/ether.c/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/group.c/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/host.c/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/ldapns.schema/1.1.1.2/Wed May 28 09:58:28 2014//Tnetbsd-8
+/netgroup.c/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/network.c/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/nssov.c/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/nssov.h/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/pam.c/1.1.1.4/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/passwd.c/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/protocol.c/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/rpc.c/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/service.c/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/shadow.c/1.1.1.5/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+/slapo-nssov.5/1.1.1.4/Thu Feb  9 01:46:42 2017//Tnetbsd-8
+D/nss-pam-ldapd////
