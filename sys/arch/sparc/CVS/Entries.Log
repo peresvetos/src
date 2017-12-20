@@ -1,8 +1,0 @@
-A D/rcons////
-A D/sbus////
-A D/scsi////
-A D/sunos////
-R D/sunos////
-R D/scsi////
-R D/sbus////
-R D/rcons////

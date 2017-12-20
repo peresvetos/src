@@ -1,9 +1,0 @@
-/Makefile/1.56/Sun Aug 11 06:32:13 2013//Tnetbsd-8
-/common.c/1.8/Wed Oct 28 07:27:24 2015//Tnetbsd-8
-/common.h/1.4/Sat May 19 00:02:44 2012//Tnetbsd-8
-/k5login.c/1.33/Tue Apr 24 16:52:26 2012//Tnetbsd-8
-/login.1/1.30/Wed Nov 19 17:56:53 2008//Tnetbsd-8
-/login.c/1.105/Wed Nov 12 22:23:38 2014//Tnetbsd-8
-/login_pam.c/1.25/Thu Oct 29 11:31:52 2015//Tnetbsd-8
-/pathnames.h/1.6/Thu Aug  7 11:14:26 2003//Tnetbsd-8
-D

@@ -1,8 +1,0 @@
-/Makefile.inc/1.5/Fri Mar 12 09:12:35 2010//Tnetbsd-8
-/bcmp.S/1.4/Tue Jan 25 02:38:15 2011//Tnetbsd-8
-/bcopy.S/1.4/Tue Jan 25 02:38:15 2011//Tnetbsd-8
-/bzero.S/1.4/Tue Jan 25 02:38:15 2011//Tnetbsd-8
-/ffs.S/1.4/Tue Jan 25 02:38:15 2011//Tnetbsd-8
-/index.S/1.4/Tue Jan 25 02:38:15 2011//Tnetbsd-8
-/memcmp.S/1.4/Tue Jan 25 02:38:15 2011//Tnetbsd-8
-D

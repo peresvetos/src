@@ -1,8 +1,0 @@
-D/AddressSanitizer////
-D/BoundsChecking////
-D/DataFlowSanitizer////
-D/EfficiencySanitizer////
-D/InstrProfiling////
-D/MemorySanitizer////
-D/SanitizerCoverage////
-D/ThreadSanitizer////

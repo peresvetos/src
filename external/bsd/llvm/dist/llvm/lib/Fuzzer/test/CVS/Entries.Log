@@ -1,8 +1,0 @@
-A D/dfsan////
-A D/inline-8bit-counters////
-A D/trace-bb////
-A D/trace-pc////
-R D/trace-pc////
-R D/trace-bb////
-R D/inline-8bit-counters////
-R D/dfsan////

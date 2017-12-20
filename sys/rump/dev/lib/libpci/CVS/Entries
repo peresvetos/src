@@ -1,8 +1,0 @@
-/Makefile/1.11/Tue May 10 19:38:29 2016//Tnetbsd-8
-/PCI.ioconf/1.1/Fri Apr  4 12:53:59 2014//Tnetbsd-8
-/pci_at_mainbus.c/1.7/Tue Jan 26 23:12:15 2016//Tnetbsd-8
-/pci_user.h/1.6/Thu Jul  7 06:55:43 2016//Tnetbsd-8
-/rumpdev_bus_dma.c/1.5/Mon Jun 15 15:38:52 2015//Tnetbsd-8
-/rumpdev_bus_space.c/1.8/Thu Jul  7 06:55:43 2016//Tnetbsd-8
-/rumpdev_pci.c/1.5/Sun May 17 13:51:31 2015//Tnetbsd-8
-D

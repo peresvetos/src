@@ -1,8 +1,0 @@
-/conversion.h/1.1.1.1/Thu Nov 28 14:14:58 2013//Tnetbsd-8
-/diagnose-if-warn-system-header.h/1.1.1.1/Thu Feb  9 17:38:54 2017//Tnetbsd-8
-/format-unused-system-args.h/1.1.1.1/Thu Nov 28 14:14:58 2013//Tnetbsd-8
-/ms-keyword-system-header.h/1.1.1.2/Sun Jan  5 15:40:02 2014//Tnetbsd-8
-/pragma-arc-cf-code-audited.h/1.1.1.1/Thu Nov 28 14:14:58 2013//Tnetbsd-8
-/unused-expr-system-header.h/1.1.1.1/Thu Nov 28 14:14:58 2013//Tnetbsd-8
-/warn-unreachable.h/1.1.1.1/Tue Mar  4 19:55:33 2014//Tnetbsd-8
-D

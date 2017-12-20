@@ -1,8 +1,0 @@
-/dist.sh/1.1.1.1/Wed Jul  8 15:37:53 2015//Tnetbsd-8
-/dnssec.conf/1.1.1.1/Wed Jul  8 15:37:53 2015//Tnetbsd-8
-/named.conf/1.1.1.1/Wed Jul  8 15:37:53 2015//Tnetbsd-8
-/zone.conf/1.1.1.1/Wed Jul  8 15:37:53 2015//Tnetbsd-8
-D/dyn.example.net////
-D/example.net////
-D/keysets////
-D/sub.example.net////

@@ -1,9 +1,0 @@
-/amd64.conf/1.2/Fri Apr  4 16:45:51 2014//Tnetbsd-8
-/evbarm.conf/1.27/Sat May 13 10:44:58 2017//Tnetbsd-8
-/i386.conf/1.1/Fri Apr  4 16:45:51 2014//Tnetbsd-8
-/rpi.conf/1.29/Sun Apr 19 18:28:31 2015//Tnetbsd-8
-/rpi_inst.conf/1.8/Sun Apr 19 18:53:33 2015//Tnetbsd-8
-/usermode.conf/1.5/Sun Apr 19 18:28:31 2015//Tnetbsd-8
-/x86.conf/1.7/Thu Jan 29 14:54:06 2015//Tnetbsd-8
-/armv7.conf/1.12.4.1/Wed Jul 19 03:07:22 2017//Tnetbsd-8
-D

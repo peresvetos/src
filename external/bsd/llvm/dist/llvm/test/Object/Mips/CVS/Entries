@@ -1,9 +1,0 @@
-/abi-flags.yaml/1.1.1.2/Tue Jan 10 20:47:59 2017//Tnetbsd-8
-/elf-abi.yaml/1.1.1.2/Tue Jan 10 20:47:59 2017//Tnetbsd-8
-/elf-flags.yaml/1.1.1.2/Tue Jan 10 20:47:59 2017//Tnetbsd-8
-/elf-mips64-rel.yaml/1.1.1.2/Tue Jan 10 20:47:59 2017//Tnetbsd-8
-/feature.test/1.1.1.2/Tue Jan 10 20:47:59 2017//Tnetbsd-8
-/lit.local.cfg/1.1.1.2/Sun Aug 10 17:04:47 2014//Tnetbsd-8
-/objdump-micro-mips.test/1.1.1.2/Tue Jan 10 20:47:59 2017//Tnetbsd-8
-/reloc-visit.test/1.1.1.1/Sat Feb 27 22:53:19 2016//Tnetbsd-8
-D

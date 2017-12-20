@@ -1,8 +1,0 @@
-/array-bounds-system-header.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
-/header-with-pragma-optimize-off.h/1.1.1.1/Sun Aug 10 17:08:44 2014//Tnetbsd-8
-/malloc.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
-/override-system-header.h/1.1.1.1/Thu Jan 29 19:57:37 2015//Tnetbsd-8
-/register.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
-/warn-new-overaligned-3.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
-/warn-unused-variables.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-8
-D

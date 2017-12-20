@@ -1,7 +1,0 @@
-/2007-01-15-llvm.used.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-8
-/2010-06-30-StripDebug.ll/1.1.1.5/Tue Jan 10 20:47:58 2017//Tnetbsd-8
-/2010-08-25-crash.ll/1.1.1.6/Tue Jan 10 20:47:58 2017//Tnetbsd-8
-/block-address.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-8
-/strip-cov.ll/1.1.1.1/Tue Jan 10 20:47:58 2017//Tnetbsd-8
-/strip-dead-debug-info.ll/1.1.1.6/Tue Jan 10 20:47:58 2017//Tnetbsd-8
-D

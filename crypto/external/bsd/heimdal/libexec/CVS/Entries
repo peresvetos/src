@@ -1,8 +1,0 @@
-/Makefile/1.1/Wed Apr 13 19:16:56 2011//Tnetbsd-8
-/Makefile.inc/1.5/Sun Jan 29 22:09:06 2017//Tnetbsd-8
-D/digest-service////
-D/hpropd////
-D/ipropd-master////
-D/ipropd-slave////
-D/kadmind////
-D/kpasswdd////

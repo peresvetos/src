@@ -1,8 +1,0 @@
-/beqc-bnec-register-constraint.ll/1.1.1.1/Tue Jan 10 20:38:23 2017//Tnetbsd-8
-/compact-branch-implicit-def.mir/1.1.1.1/Tue Jan 10 20:38:23 2017//Tnetbsd-8
-/compact-branch-policy.ll/1.1.1.1/Tue Jan 10 20:38:23 2017//Tnetbsd-8
-/compact-branches-64.ll/1.1.1.1/Tue Jan 10 20:38:23 2017//Tnetbsd-8
-/compact-branches.ll/1.1.1.1/Tue Jan 10 20:38:23 2017//Tnetbsd-8
-/no-beqzc-bnezc.ll/1.1.1.1/Tue Jan 10 20:38:23 2017//Tnetbsd-8
-/unsafe-in-forbidden-slot.ll/1.1.1.1/Tue Jan 10 20:38:23 2017//Tnetbsd-8
-D

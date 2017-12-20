@@ -1,8 +1,0 @@
-/basic.ll/1.1.1.1/Tue Jan 10 20:46:19 2017//Tnetbsd-8
-/exit-block-dominates-rt-check-block.ll/1.1.1.1/Tue Jan 10 20:46:19 2017//Tnetbsd-8
-/incorrect-phi.ll/1.1.1.1/Tue Jan 10 20:46:19 2017//Tnetbsd-8
-/lcssa.ll/1.1.1.1/Tue Jan 10 20:46:19 2017//Tnetbsd-8
-/loop-invariant-bound.ll/1.1.1.1/Tue Jan 10 20:46:19 2017//Tnetbsd-8
-/noalias-version-twice.ll/1.1.1.1/Tue Jan 10 20:46:19 2017//Tnetbsd-8
-/noalias.ll/1.1.1.1/Tue Jan 10 20:46:19 2017//Tnetbsd-8
-D

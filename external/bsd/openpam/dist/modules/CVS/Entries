@@ -1,6 +1,0 @@
-/Makefile.am/1.1.1.4/Sat May  6 19:32:39 2017//Tnetbsd-8
-/Makefile.in/1.1.1.5/Sat May  6 19:32:39 2017//Tnetbsd-8
-D/pam_deny////
-D/pam_permit////
-D/pam_return////
-D/pam_unix////

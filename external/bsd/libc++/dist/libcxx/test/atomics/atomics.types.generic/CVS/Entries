@@ -1,8 +1,0 @@
-/address.pass.cpp/1.1.1.1/Fri May 17 23:02:29 2013//Tnetbsd-8
-/bool.pass.cpp/1.1.1.1/Fri May 17 23:02:29 2013//Tnetbsd-8
-/cstdint_typedefs.pass.cpp/1.1.1.1/Fri May 17 23:02:29 2013//Tnetbsd-8
-/integral.pass.cpp/1.1.1.1/Fri May 17 23:02:29 2013//Tnetbsd-8
-/integral_typedefs.pass.cpp/1.1.1.1/Fri May 17 23:02:29 2013//Tnetbsd-8
-/trivially_copyable.fail.cpp/1.1.1.1/Sat Aug  9 19:03:43 2014//Tnetbsd-8
-/trivially_copyable.pass.cpp/1.1.1.1/Sat Aug  9 19:03:43 2014//Tnetbsd-8
-D

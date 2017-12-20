@@ -1,9 +1,0 @@
-/compile-custom.ll/1.1.1.2/Sun Aug 10 17:04:48 2014//Tnetbsd-8
-/compile-custom.ll.py/1.1.1.1/Fri May 30 18:11:17 2014//Tnetbsd-8
-/crash-narrowfunctiontest.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-8
-/invalid-debuginfo.ll/1.1.1.1/Tue Jan 10 20:45:10 2017//Tnetbsd-8
-/metadata.ll/1.1.1.5/Tue Jan 10 20:45:10 2017//Tnetbsd-8
-/named-md.ll/1.1.1.2/Tue Jan 10 20:45:10 2017//Tnetbsd-8
-/remove_arguments_test.ll/1.1.1.2/Sat Feb 27 22:52:38 2016//Tnetbsd-8
-/replace-funcs-with-null.ll/1.1.1.1/Sat Feb 27 22:52:38 2016//Tnetbsd-8
-D
